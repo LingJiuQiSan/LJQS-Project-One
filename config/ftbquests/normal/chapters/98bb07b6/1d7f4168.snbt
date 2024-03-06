@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/3056.html",
+		"",
+		"一个优化Mod。"
+	],
+	tasks: [{
+		uid: "3b25b447",
+		type: "checkmark",
+		title: "Particle Culling(粒子渲染机制优化)"
+	}]
+}

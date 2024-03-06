@@ -1,0 +1,16 @@
+{
+	icon: "tinkertoolcasts:cast_ultimate",
+	x: 9.0d,
+	y: 6.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/5982.html",
+		"",
+		"升级版本的铸模！"
+	],
+	tasks: [{
+		uid: "7e4ff7cd",
+		type: "checkmark",
+		title: "Tinker Toolcasts"
+	}]
+}

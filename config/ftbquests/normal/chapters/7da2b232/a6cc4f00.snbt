@@ -1,0 +1,16 @@
+{
+	icon: "matc:inferiumcrystal",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "heart",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-tiered-crystals",
+		"",
+		"各种等级的注魔水晶。"
+	],
+	tasks: [{
+		uid: "11fcd468",
+		type: "checkmark",
+		title: "Mystical Agriculture Tiered Crystals"
+	}]
+}

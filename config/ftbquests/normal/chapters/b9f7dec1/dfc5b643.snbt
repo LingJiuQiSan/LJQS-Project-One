@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/1499.html",
+		"",
+		"一个优化模组。"
+	],
+	tasks: [{
+		uid: "256dbebd",
+		type: "checkmark",
+		title: "Clumps(经验机制改革)"
+	}]
+}

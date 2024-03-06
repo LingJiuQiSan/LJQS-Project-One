@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/hunger-persistence",
+		"",
+		"使饥饿/饱和在死亡过程中持续存在。"
+	],
+	tasks: [{
+		uid: "c48e994c",
+		type: "checkmark",
+		title: "Hunger Persistence"
+	}]
+}

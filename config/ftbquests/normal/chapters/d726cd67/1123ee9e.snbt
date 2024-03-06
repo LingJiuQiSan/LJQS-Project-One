@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/8659.html",
+		"",
+		"添加了id上限。"
+	],
+	tasks: [{
+		uid: "9b4cddcd",
+		type: "checkmark",
+		title: "Roughly Enough IDs"
+	}]
+}

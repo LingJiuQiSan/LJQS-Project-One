@@ -1,0 +1,14 @@
+{
+	icon: "avaritia:extreme_crafting_table",
+	x: 6.0d,
+	y: 7.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/505.html"
+	],
+	tasks: [{
+		uid: "e56bc86a",
+		type: "checkmark",
+		title: "Avaritia 1.1x(无尽贪婪)"
+	}]
+}

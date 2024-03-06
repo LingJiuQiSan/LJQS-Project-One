@@ -1,0 +1,15 @@
+{
+	icon: "jaopca:block.wood",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/878.html",
+		"",
+		"添加了各种矿物的各种形态。"
+	],
+	tasks: [{
+		uid: "638ce656",
+		type: "checkmark",
+		title: "JAOPCA"
+	}]
+}

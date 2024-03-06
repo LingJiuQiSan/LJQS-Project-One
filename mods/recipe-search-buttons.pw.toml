@@ -1,0 +1,13 @@
+name = "Recipe Search Buttons"
+filename = "recipesearchbuttons-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fff2ea6e90b194328eb150eb857681e0efdcbebd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3816276
+project-id = 629858

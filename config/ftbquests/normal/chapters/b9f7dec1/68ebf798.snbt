@@ -1,0 +1,12 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/1793.html"
+	],
+	tasks: [{
+		uid: "e68c333c",
+		type: "checkmark",
+		title: "Classic Bars(经典状态条)"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	icon: "packageddraconic:fusion_crafter",
+	x: 4.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/9883.html"
+	],
+	tasks: [{
+		uid: "c33371f0",
+		type: "checkmark",
+		title: "PackagedDraconic(封包龙之进化)"
+	}]
+}

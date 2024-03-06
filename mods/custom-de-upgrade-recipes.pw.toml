@@ -1,0 +1,13 @@
+name = "Custom DE Upgrade Recipes"
+filename = "DEFusionCraftingRecipeChanges-1.12.2-1.0.1.12-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73e96fec7aa2362653c7e0c722da951697ce30b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4534926
+project-id = 861307

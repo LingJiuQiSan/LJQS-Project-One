@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/faststages",
+		"",
+		"一个优化Mod。"
+	],
+	tasks: [{
+		uid: "f3ef7254",
+		type: "checkmark",
+		title: "FastStages"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	icon: "thermalfoundation:ore_fluid 1 4",
+	x: 4.5d,
+	y: 4.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/425.html"
+	],
+	tasks: [{
+		uid: "e76e2205",
+		type: "checkmark",
+		title: "Thermal Foundation(热力基本)"
+	}]
+}

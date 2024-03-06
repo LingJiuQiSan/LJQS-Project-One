@@ -1,0 +1,16 @@
+{
+	icon: "redstonearsenal:material 1 32",
+	x: 1.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/256.html",
+		"",
+		"添加了红石琥珀金等。"
+	],
+	tasks: [{
+		uid: "d06206b9",
+		type: "checkmark",
+		title: "Redstone Arsenal(红石兵工厂)"
+	}]
+}

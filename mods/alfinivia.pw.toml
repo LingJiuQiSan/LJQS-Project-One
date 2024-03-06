@@ -1,0 +1,13 @@
+name = "Alfinivia"
+filename = "Alfinivia-0.4hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11d6ad71af6bb7938fe636fc432a553d1fa96932"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2541144
+project-id = 289989

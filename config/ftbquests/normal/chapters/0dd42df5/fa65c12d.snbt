@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/8800.html",
+		"",
+		"创建滚动组。"
+	],
+	tasks: [{
+		uid: "78b67dbf",
+		type: "checkmark",
+		title: "ZenScroll"
+	}]
+}

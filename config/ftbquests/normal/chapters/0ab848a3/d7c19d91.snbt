@@ -1,0 +1,16 @@
+{
+	icon: "searedladder:seared_ladder",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/11513.html",
+		"",
+		"添加了匠魂3的焦黑梯子。"
+	],
+	tasks: [{
+		uid: "e9e05fbe",
+		type: "checkmark",
+		title: "Seared Ladder (Backport)"
+	}]
+}

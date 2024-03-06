@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/5881.html",
+		"",
+		"JEI的分支。"
+	],
+	tasks: [{
+		uid: "348c0c0c",
+		type: "checkmark",
+		title: "Had Enough Items(HEI物品管理器)"
+	}]
+}

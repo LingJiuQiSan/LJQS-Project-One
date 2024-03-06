@@ -1,0 +1,13 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/6078.html "
+	],
+	tasks: [{
+		uid: "ff39573c",
+		type: "checkmark",
+		title: "MekaTweaker"
+	}]
+}

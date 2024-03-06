@@ -1,0 +1,14 @@
+{
+	icon: "lightningcraft:metal_block 1 2",
+	x: 1.5d,
+	y: 1.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/854.html"
+	],
+	tasks: [{
+		uid: "f55c8105",
+		type: "checkmark",
+		title: "LightningCraft(雷电工艺)"
+	}]
+}

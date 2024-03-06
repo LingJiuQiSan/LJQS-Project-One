@@ -1,0 +1,15 @@
+{
+	icon: "rsgauges:indicator4",
+	x: 6.0d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/1707.html",
+		"",
+		"添加了大量红石开关。"
+	],
+	tasks: [{
+		uid: "e280e84f",
+		type: "checkmark",
+		title: "Gauges and Switches(红石测量与开关)"
+	}]
+}

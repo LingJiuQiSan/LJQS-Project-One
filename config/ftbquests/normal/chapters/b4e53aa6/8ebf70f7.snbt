@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/839.html",
+		"",
+		"提供声明区域、Home指令等功能。"
+	],
+	tasks: [{
+		uid: "513257f2",
+		type: "checkmark",
+		title: "FTB Utilities(FTB 实用工具)"
+	}]
+}

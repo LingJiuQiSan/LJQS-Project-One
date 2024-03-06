@@ -1,0 +1,14 @@
+{
+	icon: "packagedauto:recipe_holder",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2974.html"
+	],
+	tasks: [{
+		uid: "7d564ec8",
+		type: "checkmark",
+		title: "PackagedAuto(封包合成)"
+	}]
+}

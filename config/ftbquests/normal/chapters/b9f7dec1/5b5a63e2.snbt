@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: 7.5d,
+	text: [
+		"https://www.mcmod.cn/class/837.html"
+	],
+	tasks: [{
+		uid: "1a4ca08c",
+		type: "checkmark",
+		title: "ConnectedTexturesMod(连接纹理)"
+	}]
+}

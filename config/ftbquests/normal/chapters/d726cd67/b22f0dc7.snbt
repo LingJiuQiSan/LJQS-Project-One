@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/2713.html"
+	],
+	tasks: [{
+		uid: "6abc472c",
+		type: "checkmark",
+		title: "Recipe Stages(配方阶段)"
+	}]
+}

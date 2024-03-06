@@ -1,0 +1,13 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/843.html"
+	],
+	tasks: [{
+		uid: "5c340ade",
+		type: "checkmark",
+		title: "CoFH World"
+	}]
+}

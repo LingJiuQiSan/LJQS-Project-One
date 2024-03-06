@@ -1,0 +1,16 @@
+{
+	icon: "psicaster:caster",
+	x: 1.5d,
+	y: 7.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/5770.html",
+		"",
+		"添加了自动演算机。"
+	],
+	tasks: [{
+		uid: "8d5b4c14",
+		type: "checkmark",
+		title: "PSICaster"
+	}]
+}

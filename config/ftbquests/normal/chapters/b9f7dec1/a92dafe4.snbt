@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 6.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/669.html",
+		"",
+		"魔改核心Mod。"
+	],
+	tasks: [{
+		uid: "af4ff458",
+		type: "checkmark",
+		title: "CraftTweaker"
+	}]
+}

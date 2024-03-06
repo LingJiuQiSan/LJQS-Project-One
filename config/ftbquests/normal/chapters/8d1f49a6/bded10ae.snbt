@@ -1,0 +1,14 @@
+{
+	icon: "opencomputers:tool 1 4",
+	x: 4.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/389.html"
+	],
+	tasks: [{
+		uid: "f8349b82",
+		type: "checkmark",
+		title: "Open Computers(开放式电脑)"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/600.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "779a0b96",
+		type: "checkmark",
+		title: "CoFH Core(CoFH核心)"
+	}]
+}

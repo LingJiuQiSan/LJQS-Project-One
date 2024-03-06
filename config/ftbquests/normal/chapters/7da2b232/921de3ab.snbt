@@ -1,0 +1,13 @@
+{
+	icon: "mysticalmechanics:mergebox_frame",
+	x: 0.0d,
+	y: 7.5d,
+	text: [
+		"为余烬添加了动力系统。"
+	],
+	tasks: [{
+		uid: "a30261a6",
+		type: "checkmark",
+		title: "Mystical Mechanics API(奇械学)"
+	}]
+}

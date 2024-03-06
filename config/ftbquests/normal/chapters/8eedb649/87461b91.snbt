@@ -1,0 +1,22 @@
+{
+	icon: {
+		id: "betterp2p:advanced_memory_card",
+		tag: {
+			gui: 3b,
+			selectedIndex: {}
+		}
+	},
+	x: 0.0d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/12989.html",
+		"",
+		"为P2P通道的配置提供了图形操作界面。"
+	],
+	tasks: [{
+		uid: "f9fd52ab",
+		type: "checkmark",
+		title: "Betterer P2P(Better P2P)"
+	}]
+}

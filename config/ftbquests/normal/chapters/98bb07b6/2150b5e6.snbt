@@ -1,0 +1,21 @@
+{
+	icon: {
+		id: "portabledrill:portable_drill",
+		ForgeCaps: {
+			"portabledrill:energy": 0
+		}
+	},
+	x: 6.0d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/portable-drill-for-immersive-engineering",
+		"",
+		"该模组添加了一个便携式岩芯钻井，您可以使用它来探测矿物块（IE）和储层（如果安装了 IP）。"
+	],
+	tasks: [{
+		uid: "95c78f14",
+		type: "checkmark",
+		title: "Portable Drill for Immersive Engineering"
+	}]
+}

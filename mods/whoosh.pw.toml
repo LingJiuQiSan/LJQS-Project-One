@@ -1,0 +1,13 @@
+name = "Whoosh"
+filename = "Whoosh-1.12.2-0.1.12.1-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09d3e5e22f57e4b241cbe6060f9e2174643b4d1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2623891
+project-id = 283016

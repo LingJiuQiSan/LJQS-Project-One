@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/7852.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "269262cf",
+		type: "checkmark",
+		title: "ModularUI"
+	}]
+}

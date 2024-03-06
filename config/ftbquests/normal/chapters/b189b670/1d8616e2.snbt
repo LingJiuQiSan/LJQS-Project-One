@@ -1,0 +1,16 @@
+{
+	icon: "immersiveposts:fence_iron",
+	x: 3.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/4776.html",
+		"",
+		"添加了更多的栅栏。"
+	],
+	tasks: [{
+		uid: "339b78da",
+		type: "checkmark",
+		title: "Immersive Posts(沉浸长杆)"
+	}]
+}

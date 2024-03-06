@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2597.html",
+		"",
+		"F7看是否刷怪，F9看区块边界。"
+	],
+	tasks: [{
+		uid: "f1196948",
+		type: "checkmark",
+		title: "More Overlays"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/598.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "c72c7771",
+		type: "checkmark",
+		title: "EnderCore(末影核心)"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	icon: "botanianeedsit:mana_capacitor_terrasteel",
+	x: 6.0d,
+	y: 6.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1474.html",
+		"",
+		"添加了一些物品。"
+	],
+	tasks: [{
+		uid: "5ed8cd98",
+		type: "checkmark",
+		title: "Botania Needs These Things!(植物魔法需要它！)"
+	}]
+}

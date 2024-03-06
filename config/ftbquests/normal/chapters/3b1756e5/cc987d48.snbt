@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 7.5d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/too-many-efficiency-losses",
+		"",
+		"禁用GP损失。"
+	],
+	tasks: [{
+		uid: "6efe56d2",
+		type: "checkmark",
+		title: "Too Many Efficiency Losses"
+	}]
+}

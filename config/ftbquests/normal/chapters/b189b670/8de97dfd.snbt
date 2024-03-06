@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/7460.html",
+		"",
+		"让无限和经验修补不再冲突。"
+	],
+	tasks: [{
+		uid: "2f82f74f",
+		type: "checkmark",
+		title: "Infinity With Mending(无限与经验修补)"
+	}]
+}

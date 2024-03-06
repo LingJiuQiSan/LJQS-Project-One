@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/833.html",
+		"",
+		"不用再丢到地上扫描了！"
+	],
+	tasks: [{
+		uid: "fa012ce2",
+		type: "checkmark",
+		title: "Thaumic Inventory Scanning (Thaumcraft Addon)(神秘时代物品栏扫描)"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	icon: "stygian:endbone",
+	x: 0.0d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/11239.html",
+		"",
+		"在末地添加了两种生物群系。"
+	],
+	tasks: [{
+		uid: "1a186634",
+		type: "checkmark",
+		title: "Stygian End Continuation(末地：生物群系扩展延续)"
+	}]
+}

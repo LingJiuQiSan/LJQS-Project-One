@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/2482.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "24cbd0ca",
+		type: "checkmark",
+		title: "GunpowderLib"
+	}]
+}

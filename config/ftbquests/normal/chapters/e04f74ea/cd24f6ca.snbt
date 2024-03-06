@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/1954.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "19c60843",
+		type: "checkmark",
+		title: "Athenaeum"
+	}]
+}

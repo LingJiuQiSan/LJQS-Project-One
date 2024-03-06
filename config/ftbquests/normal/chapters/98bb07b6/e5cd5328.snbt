@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 3.0d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/potion-icon-remover",
+		"",
+		"移除右上角的药水效果显示"
+	],
+	tasks: [{
+		uid: "a1d7dedf",
+		type: "checkmark",
+		title: "Potion Icon Remover"
+	}]
+}

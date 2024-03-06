@@ -1,0 +1,14 @@
+{
+	icon: "enderio:block_simple_alloy_smelter",
+	x: 6.0d,
+	y: 0.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/181.html"
+	],
+	tasks: [{
+		uid: "e6833acd",
+		type: "checkmark",
+		title: "Ender IO(末影接口)"
+	}]
+}

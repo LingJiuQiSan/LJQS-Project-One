@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/3757.html",
+		"",
+		"高级火箭和开放式电脑的联动。"
+	],
+	tasks: [{
+		uid: "22d50c52",
+		type: "checkmark",
+		title: "OCRocketry"
+	}]
+}

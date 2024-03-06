@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/8368.html",
+		"",
+		"添加药水描述。"
+	],
+	tasks: [{
+		uid: "9c1e65bb",
+		type: "checkmark",
+		title: "Potion Descriptions"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	icon: "thaumcraft:crucible",
+	x: 9.0d,
+	y: 0.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/956.html"
+	],
+	tasks: [{
+		uid: "e7d8fc5c",
+		type: "checkmark",
+		title: "Thaumcraft(神秘时代6)"
+	}]
+}

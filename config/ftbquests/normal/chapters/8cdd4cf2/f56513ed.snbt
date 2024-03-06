@@ -1,0 +1,14 @@
+{
+	icon: "elevatorid:elevator_white",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/3345.html"
+	],
+	tasks: [{
+		uid: "a1c0fbc0",
+		type: "checkmark",
+		title: "OpenBlocks Elevator(开放式电梯)"
+	}]
+}

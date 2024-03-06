@@ -1,0 +1,16 @@
+{
+	icon: "ftbquests:book",
+	x: 7.5d,
+	y: 4.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/1423.html",
+		"",
+		"我认为不需要其他描述。"
+	],
+	tasks: [{
+		uid: "435a780d",
+		type: "checkmark",
+		title: "FTB Quests(FTB任务)"
+	}]
+}

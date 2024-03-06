@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/7062.html",
+		"",
+		"这个mod会让猪人让你在挖下界石英等方块的时候攻击你，也让铁傀儡不再攻击玩家。"
+	],
+	tasks: [{
+		uid: "dc348772",
+		type: "checkmark",
+		title: "Anger Management"
+	}]
+}

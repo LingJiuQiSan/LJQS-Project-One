@@ -1,0 +1,14 @@
+{
+	icon: "extendedcrafting:singularity_ultimate",
+	x: 6.0d,
+	y: 4.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/11801.html"
+	],
+	tasks: [{
+		uid: "d35f988b",
+		type: "checkmark",
+		title: "Extended Crafting: Nomifactory Edition(合成拓展：延续版)"
+	}]
+}

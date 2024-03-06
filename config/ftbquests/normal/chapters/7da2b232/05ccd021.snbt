@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/7130.html",
+		"",
+		"建议分配内存大小。"
+	],
+	tasks: [{
+		uid: "e004f9f6",
+		type: "checkmark",
+		title: "MemoryTester"
+	}]
+}

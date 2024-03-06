@@ -1,0 +1,14 @@
+{
+	icon: "industrialforegoing:plastic",
+	x: 0.0d,
+	y: 3.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/979.html"
+	],
+	tasks: [{
+		uid: "59013443",
+		type: "checkmark",
+		title: "Industrial Foregoing(工业先锋)"
+	}]
+}

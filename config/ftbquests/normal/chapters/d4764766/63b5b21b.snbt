@@ -1,0 +1,9 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "e5f9d43c",
+		type: "checkmark",
+		title: "Just Enough HarvestCraft (JEHC)(更多潘马斯配方查询)"
+	}]
+}

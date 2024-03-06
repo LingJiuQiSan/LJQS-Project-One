@@ -1,0 +1,21 @@
+{
+	icon: {
+		id: "thermalcultivation:watering_can",
+		Damage: 32000s,
+		tag: {
+			Water: 60000,
+			Mode: 4
+		}
+	},
+	x: 0.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/876.html"
+	],
+	tasks: [{
+		uid: "291bcf47",
+		type: "checkmark",
+		title: "Thermal Cultivation(热力农业)"
+	}]
+}

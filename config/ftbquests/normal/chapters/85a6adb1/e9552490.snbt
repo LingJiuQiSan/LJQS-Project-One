@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/durability101",
+		"",
+		"物品下方耐久显示。"
+	],
+	tasks: [{
+		uid: "601eb647",
+		type: "checkmark",
+		title: "Durability101"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 6.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/9093.html",
+		"",
+		"完成进度时点击聊天框的进度直接定位。"
+	],
+	tasks: [{
+		uid: "31a94d34",
+		type: "checkmark",
+		title: "Advancement Locator"
+	}]
+}

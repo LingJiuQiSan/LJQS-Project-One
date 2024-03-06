@@ -1,0 +1,14 @@
+{
+	icon: "packagedavaritia:extreme_crafter",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/7826.html"
+	],
+	tasks: [{
+		uid: "aa93c871",
+		type: "checkmark",
+		title: "PackagedAvaritia(封包无尽贪婪)"
+	}]
+}

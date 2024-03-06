@@ -1,0 +1,13 @@
+name = "Potion Icon Remover"
+filename = "Potion Icon Remover-1.12-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4dc643842b6c6b011f95c39092e09583ca8b6364"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2432934
+project-id = 244821

@@ -1,0 +1,12 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/1086.html"
+	],
+	tasks: [{
+		uid: "370a7ffe",
+		type: "checkmark",
+		title: "Smooth Font(平滑字体)"
+	}]
+}

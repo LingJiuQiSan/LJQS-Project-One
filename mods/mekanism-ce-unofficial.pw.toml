@@ -1,0 +1,13 @@
+name = "Mekanism-CE-Unofficial"
+filename = "Mekanism CE Unofficial-All-9.8.11.185.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b584aff006f062bee45355a129ac2b82571ed207"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5130458
+project-id = 840735

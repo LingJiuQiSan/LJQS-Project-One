@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/3730.html"
+	],
+	tasks: [{
+		uid: "7d4fd279",
+		type: "checkmark",
+		title: "Versioner(整合包版本工具)"
+	}]
+}

@@ -1,0 +1,13 @@
+name = "LightningCraft"
+filename = "lightningcraft-2.9.7_1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5563d92fc8e6d1f0a0d6cf49b14cd4570f5ae8fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2872478
+project-id = 237422

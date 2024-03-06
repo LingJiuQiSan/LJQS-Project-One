@@ -1,0 +1,16 @@
+{
+	icon: "nae2:pattern_multiplier",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/11824.html",
+		"",
+		"添加样板多功能工具。"
+	],
+	tasks: [{
+		uid: "0fddecda",
+		type: "checkmark",
+		title: "Neeve's AE2: Extended Life Additions(Neeve的AE2:EL附加工具)"
+	}]
+}

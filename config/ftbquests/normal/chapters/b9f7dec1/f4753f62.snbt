@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 7.5d,
+	text: [
+		"https://www.mcmod.cn/class/810.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "57caebd0",
+		type: "checkmark",
+		title: "Cyclops Core"
+	}]
+}

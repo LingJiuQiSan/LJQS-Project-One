@@ -1,0 +1,14 @@
+{
+	icon: "environmentaltech:void_ore_miner_cont_6",
+	x: 0.0d,
+	y: 4.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/583.html"
+	],
+	tasks: [{
+		uid: "c282d781",
+		type: "checkmark",
+		title: "Environmental Tech(环境科技)"
+	}]
+}

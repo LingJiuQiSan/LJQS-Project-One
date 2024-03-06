@@ -1,0 +1,12 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/1697.html"
+	],
+	tasks: [{
+		uid: "ba35fbd9",
+		type: "checkmark",
+		title: "Another Common Bug Fix(另一个通用Bug修复)"
+	}]
+}

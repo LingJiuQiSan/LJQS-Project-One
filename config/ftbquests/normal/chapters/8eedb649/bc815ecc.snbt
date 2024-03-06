@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 7.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/3091.html",
+		"",
+		"禁止一些维度的创造模式飞行手段。"
+	],
+	tasks: [{
+		uid: "b5710b74",
+		type: "checkmark",
+		title: "Broken Wings - Game Stages Edition"
+	}]
+}

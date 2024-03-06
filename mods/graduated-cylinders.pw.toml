@@ -1,0 +1,13 @@
+name = "Graduated Cylinders"
+filename = "GraduatedCylinders-1.12.2-2.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2317e11ce11aea771eed7958e300903d48e35c0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4808772
+project-id = 839336

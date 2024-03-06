@@ -1,0 +1,19 @@
+{
+	icon: {
+		id: "pouchofunknown:pouch",
+		tag: {
+			Inventory: []
+		}
+	},
+	x: 1.5d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/3174.html"
+	],
+	tasks: [{
+		uid: "f057d4e8",
+		type: "checkmark",
+		title: "Pouch of Unknown(未知之袋)"
+	}]
+}

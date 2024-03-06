@@ -1,0 +1,16 @@
+{
+	icon: "defiledlands:essence_mourner",
+	x: 6.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2133.html",
+		"",
+		"添加了一些物品和需要召唤的怪物。"
+	],
+	tasks: [{
+		uid: "99ecc633",
+		type: "checkmark",
+		title: "Defiled Lands(污秽之地)"
+	}]
+}

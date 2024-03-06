@@ -1,0 +1,13 @@
+name = "Speedy Hoppers"
+filename = "speedyhoppers-1.1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5ff123e101f96c935b00a56dae3edae93d2a3fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2755876
+project-id = 320098

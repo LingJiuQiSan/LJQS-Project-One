@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/8728.html",
+		"",
+		"该模组添加了 CraftTweaker 对新 Advanced Rocketry 的支持。"
+	],
+	tasks: [{
+		uid: "c165bb2b",
+		type: "checkmark",
+		title: "Advanced Tweakery"
+	}]
+}

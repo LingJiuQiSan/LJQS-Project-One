@@ -1,0 +1,9 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "3a5da69e",
+		type: "checkmark",
+		title: "欢迎来到LJQS Project ONE！"
+	}]
+}

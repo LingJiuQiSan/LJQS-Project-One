@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/381.html",
+		"",
+		"用于修改 Minecraft 的食物和饥饿机制的 API。"
+	],
+	tasks: [{
+		uid: "7b3e3252",
+		type: "checkmark",
+		title: "AppleCore(苹果核)"
+	}]
+}

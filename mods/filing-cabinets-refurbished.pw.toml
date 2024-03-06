@@ -1,0 +1,13 @@
+name = "Filing Cabinets Refurbished"
+filename = "filcabref-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "645f630f863b81c3699c13d409e7371361780597"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2849149
+project-id = 355909

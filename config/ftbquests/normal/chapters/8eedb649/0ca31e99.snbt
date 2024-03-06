@@ -1,0 +1,16 @@
+{
+	icon: "banhammer:kick_modifier",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/5897.html",
+		"",
+		"禁人锤"
+	],
+	tasks: [{
+		uid: "957ce8cd",
+		type: "checkmark",
+		title: "BanHammer"
+	}]
+}

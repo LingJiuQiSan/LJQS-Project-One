@@ -1,0 +1,29 @@
+{
+	icon: {
+		id: "psi:cad",
+		tag: {
+			componentASSEMBLY: {
+				id: "psi:cad_assembly",
+				Count: 1,
+				Damage: 0s
+			}
+		},
+		ForgeCaps: {
+			Parent: {
+				Time: 0,
+				Battery: 0,
+				Memory: []
+			}
+		}
+	},
+	x: 4.5d,
+	y: 7.5d,
+	text: [
+		"https://www.mcmod.cn/class/6873.html"
+	],
+	tasks: [{
+		uid: "5f98c73d",
+		type: "checkmark",
+		title: "Psi Unofficial"
+	}]
+}

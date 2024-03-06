@@ -1,0 +1,14 @@
+{
+	icon: "pneumaticcraft:air_compressor",
+	x: 3.0d,
+	y: 3.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/270.html"
+	],
+	tasks: [{
+		uid: "1b78c1b5",
+		type: "checkmark",
+		title: "PneumaticCraft: Repressurized(气动工艺)"
+	}]
+}

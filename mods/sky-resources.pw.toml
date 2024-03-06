@@ -1,0 +1,13 @@
+name = "Sky Resources 2"
+filename = "skyresources-2.3.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da3f9ea8b092fae586fa714968a6d8dd6997de5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2758220
+project-id = 243482

@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/9844.html",
+		"",
+		"主手TNT副手打火石扔出TNT。"
+	],
+	tasks: [{
+		uid: "8d817c73",
+		type: "checkmark",
+		title: "Throwable Explosives"
+	}]
+}

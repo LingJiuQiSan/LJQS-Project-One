@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/6066.html"
+	],
+	tasks: [{
+		uid: "53fe50f0",
+		type: "checkmark",
+		title: "Hardcore Item Stages"
+	}]
+}

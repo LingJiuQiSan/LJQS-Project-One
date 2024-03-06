@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/4010.html",
+		"",
+		"一个 mod，提供 Sponge Mixin 库、一个标准 API，供 mod 加载针对 Minecraft 和其他 mod 的 mixins，以及 1.8 - 1.12.2 上相关的有用实用程序。"
+	],
+	tasks: [{
+		uid: "aa7270e7",
+		type: "checkmark",
+		title: "MixinBooter"
+	}]
+}

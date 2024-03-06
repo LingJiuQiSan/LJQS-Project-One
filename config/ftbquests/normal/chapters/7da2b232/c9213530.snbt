@@ -1,0 +1,15 @@
+{
+	icon: "immersivetech:wooden_crate",
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/885.html",
+		"",
+		"添加了一套新的发电机制。"
+	],
+	tasks: [{
+		uid: "e81ccfe7",
+		type: "checkmark",
+		title: "Immersive Technology(沉浸科技)"
+	}]
+}

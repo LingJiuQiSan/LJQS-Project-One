@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/1792.html",
+		"",
+		"显示电容的详细信息。"
+	],
+	tasks: [{
+		uid: "168edc37",
+		type: "checkmark",
+		title: "Loot Capacitor Tooltips(电容信息显示)"
+	}]
+}

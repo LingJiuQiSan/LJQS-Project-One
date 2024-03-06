@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/12144.html",
+		"",
+		"帕秋莉手册的一个分支。"
+	],
+	tasks: [{
+		uid: "a4e8c361",
+		type: "checkmark",
+		title: "Patchouli ROFL Edition"
+	}]
+}

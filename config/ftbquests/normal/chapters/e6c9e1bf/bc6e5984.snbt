@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/configanytime",
+		"",
+		"允许在任何时间点设置 Forge 配置。特别是对于在 coremod/tweaker 加载阶段使用 Forge 配置系统的开发人员。"
+	],
+	tasks: [{
+		uid: "339b0602",
+		type: "checkmark",
+		title: "ConfigAnytime"
+	}]
+}

@@ -1,0 +1,13 @@
+name = "AstralLevelTweak"
+filename = "astral-level-nerf-1.0.1-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bacc275792cafae77892a48fbb620553db362755"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3569685
+project-id = 463445

@@ -1,0 +1,13 @@
+name = "Modular Machinery: Community Edition"
+filename = "ModularMachinery-CE-2.0.0-pre2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa60ed83112995f1d67b28ad9b2663f807a43820"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5148192
+project-id = 817377

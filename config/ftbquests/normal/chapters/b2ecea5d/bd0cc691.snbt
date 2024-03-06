@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/8042.html",
+		"",
+		"禁止村民交易！"
+	],
+	tasks: [{
+		uid: "cb6f557c",
+		type: "checkmark",
+		title: "VillagerTradingBan"
+	}]
+}

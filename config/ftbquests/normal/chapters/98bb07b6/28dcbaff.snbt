@@ -1,0 +1,17 @@
+{
+	icon: {
+		id: "projecte:item.pe_philosophers_stone",
+		tag: {}
+	},
+	x: 6.0d,
+	y: 4.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/353.html"
+	],
+	tasks: [{
+		uid: "9dd590a7",
+		type: "checkmark",
+		title: "ProjectE(等价交换重制版)"
+	}]
+}

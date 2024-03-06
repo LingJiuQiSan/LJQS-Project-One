@@ -1,0 +1,13 @@
+{
+	icon: "projectred-fabrication:ic_machine",
+	x: 4.5d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/2857.html"
+	],
+	tasks: [{
+		uid: "23f871df",
+		type: "checkmark",
+		title: "Project Red - Fabrication"
+	}]
+}

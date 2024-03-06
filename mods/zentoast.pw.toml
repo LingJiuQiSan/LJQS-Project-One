@@ -1,0 +1,13 @@
+name = "ZenToast"
+filename = "zen_toast-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "898eae089e4359f8ea7e0e3c41d7f1233ca118cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5049442
+project-id = 963150

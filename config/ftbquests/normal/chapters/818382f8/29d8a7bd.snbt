@@ -1,0 +1,25 @@
+{
+	icon: {
+		id: "whoosh:transporter",
+		Damage: 32000s,
+		tag: {
+			Fluid: {
+				FluidName: "ender",
+				Amount: 15000
+			},
+			Energy: 750000
+		}
+	},
+	x: 1.5d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/3741.html",
+		"",
+		"热力膨胀附属。"
+	],
+	tasks: [{
+		uid: "f3a36d90",
+		type: "checkmark",
+		title: "Whoosh"
+	}]
+}

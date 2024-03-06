@@ -1,0 +1,22 @@
+{
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "rune",
+			Amount: 1000
+		}
+	},
+	x: 4.5d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/5901.html",
+		"",
+		"血魔法与匠魂的联动。"
+	],
+	tasks: [{
+		uid: "d3a8561f",
+		type: "checkmark",
+		title: "Blood Smeltery"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/custom-de-upgrade-recipes",
+		"",
+		"该模组允许在 Draconic Evolution 中配置装甲和工具升级的配方。"
+	],
+	tasks: [{
+		uid: "53594735",
+		type: "checkmark",
+		title: "Custom DE Upgrade Recipes"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/938.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "eac68cf9",
+		type: "checkmark",
+		title: "Bookshelf"
+	}]
+}

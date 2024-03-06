@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/no-mob-spawning-on-trees",
+		"",
+		"阻止怪物在树上生成。"
+	],
+	tasks: [{
+		uid: "cb518efc",
+		type: "checkmark",
+		title: "No Mob Spawning on Trees"
+	}]
+}

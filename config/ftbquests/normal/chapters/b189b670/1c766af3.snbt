@@ -1,0 +1,14 @@
+{
+	icon: "integrateddynamics:menril_sapling",
+	x: 4.5d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/845.html"
+	],
+	tasks: [{
+		uid: "c99a6b89",
+		type: "checkmark",
+		title: "Integrated Dynamics(动态联合/集成动力)"
+	}]
+}

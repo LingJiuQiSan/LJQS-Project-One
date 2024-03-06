@@ -1,0 +1,13 @@
+{
+	icon: "projectred-core:screwdriver",
+	x: 1.5d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/2856.html"
+	],
+	tasks: [{
+		uid: "9bcb341f",
+		type: "checkmark",
+		title: "Project Red - Core(红石计划：核心)"
+	}]
+}

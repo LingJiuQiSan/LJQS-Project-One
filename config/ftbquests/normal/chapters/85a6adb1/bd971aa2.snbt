@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/7787.html",
+		"",
+		"编码样板jei(hei)查看。"
+	],
+	tasks: [{
+		uid: "4eda0647",
+		type: "checkmark",
+		title: "Dynamistics"
+	}]
+}

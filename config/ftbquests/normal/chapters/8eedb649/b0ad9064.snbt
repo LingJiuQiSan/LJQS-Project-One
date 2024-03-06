@@ -1,0 +1,14 @@
+{
+	icon: "bloodmagic:altar",
+	x: 3.0d,
+	y: 4.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/528.html"
+	],
+	tasks: [{
+		uid: "6946e6f5",
+		type: "checkmark",
+		title: "Blood Magic(血魔法2)"
+	}]
+}

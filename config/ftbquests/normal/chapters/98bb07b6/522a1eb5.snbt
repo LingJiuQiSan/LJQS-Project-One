@@ -1,0 +1,14 @@
+{
+	icon: "packagedastral:trait_crafter",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/9891.html"
+	],
+	tasks: [{
+		uid: "48a1dc16",
+		type: "checkmark",
+		title: "PackagedAstral(封包星辉魔法)"
+	}]
+}

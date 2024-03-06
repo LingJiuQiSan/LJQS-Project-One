@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/13330.html",
+		"",
+		"重铸了声音系统。"
+	],
+	tasks: [{
+		uid: "50b2b4f8",
+		type: "checkmark",
+		title: "籁/Sound Physics Remixin"
+	}]
+}

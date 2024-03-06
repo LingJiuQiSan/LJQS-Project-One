@@ -1,0 +1,14 @@
+{
+	icon: "wirelessutils:angled_slime",
+	x: 3.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1627.html"
+	],
+	tasks: [{
+		uid: "15c03c0c",
+		type: "checkmark",
+		title: "Wireless Utilities(无线设备)"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	icon: "deepmoblearning:polymer_clay",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/11671.html",
+		"",
+		"很方便地产出各种怪物材料。"
+	],
+	tasks: [{
+		uid: "aeaf7a19",
+		type: "checkmark",
+		title: "Deep Mob Evolution"
+	}]
+}

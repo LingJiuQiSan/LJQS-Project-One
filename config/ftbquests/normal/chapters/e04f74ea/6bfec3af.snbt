@@ -1,0 +1,16 @@
+{
+	icon: "aetherworks:aether_ore",
+	x: 6.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/7327.html",
+		"",
+		"余烬的拓展模组，添加了围绕天华的物品。"
+	],
+	tasks: [{
+		uid: "cf392788",
+		type: "checkmark",
+		title: "AetherWorks(天华之作)"
+	}]
+}

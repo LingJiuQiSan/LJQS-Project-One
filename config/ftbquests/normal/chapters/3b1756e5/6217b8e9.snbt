@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/thaumic-one-probe",
+		"",
+		"神秘时代6与检测器联动。"
+	],
+	tasks: [{
+		uid: "486a0728",
+		type: "checkmark",
+		title: "Thaumic One Probe"
+	}]
+}

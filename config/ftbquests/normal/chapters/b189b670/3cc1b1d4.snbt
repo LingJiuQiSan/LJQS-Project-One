@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/ifpatcher",
+		"",
+		"一个小型 coremod，用于修补1.12.2 的工业先锋中的一些问题。"
+	],
+	tasks: [{
+		uid: "d91a132a",
+		type: "checkmark",
+		title: "IFPatcher"
+	}]
+}

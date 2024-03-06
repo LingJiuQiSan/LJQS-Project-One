@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/4625.html",
+		"",
+		"允许你调整单个界面的尺寸大小。"
+	],
+	tasks: [{
+		uid: "d0d39ef8",
+		type: "checkmark",
+		title: "ScalingGUIs(界面缩放)"
+	}]
+}

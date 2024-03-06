@@ -1,0 +1,13 @@
+{
+	x: 10.5d,
+	y: 9.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/61.html"
+	],
+	tasks: [{
+		uid: "741ac3ff",
+		type: "checkmark",
+		title: "The Twilight Forest(暮色森林)"
+	}]
+}

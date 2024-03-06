@@ -1,0 +1,13 @@
+{
+	x: 4.5d,
+	y: 7.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/1918.html"
+	],
+	tasks: [{
+		uid: "bfcae36a",
+		type: "checkmark",
+		title: "Custom Starter Gear(自定义初始装备)"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/shut-up-model-loader",
+		"",
+		"删除了log中的ModelLoaderRegistry$LoaderExceptions"
+	],
+	tasks: [{
+		uid: "38ece266",
+		type: "checkmark",
+		title: "Shut Up, Model Loader!"
+	}]
+}

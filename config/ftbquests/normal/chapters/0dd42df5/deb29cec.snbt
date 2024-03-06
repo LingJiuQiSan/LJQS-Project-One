@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/780.html",
+		"",
+		"一个前置。"
+	],
+	tasks: [{
+		uid: "668b217a",
+		type: "checkmark",
+		title: "ZeroCore"
+	}]
+}

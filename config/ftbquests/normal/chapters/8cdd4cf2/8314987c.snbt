@@ -1,0 +1,16 @@
+{
+	icon: "enderio:item_capacitor_totemic",
+	x: 1.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1345.html",
+		"",
+		"末影接口拓展Mod。"
+	],
+	tasks: [{
+		uid: "84e6dac9",
+		type: "checkmark",
+		title: "Ender IO Endergy(末影接口：管道拓展)"
+	}]
+}

@@ -1,0 +1,13 @@
+name = "Draconic Alchemy"
+filename = "draconicalchemy-0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8ae948b3e8f3e6e69410d7359c62e8c9ec0b8a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4967213
+project-id = 951647

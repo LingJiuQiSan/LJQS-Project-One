@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/1926.html",
+		"",
+		"让你掉虚空时从天上摔下来。"
+	],
+	tasks: [{
+		uid: "6ecb239b",
+		type: "checkmark",
+		title: "Forgiving Void(仁慈的虚空)"
+	}]
+}

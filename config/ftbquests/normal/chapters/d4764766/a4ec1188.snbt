@@ -1,0 +1,12 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/2094.html"
+	],
+	tasks: [{
+		uid: "cbb20893",
+		type: "checkmark",
+		title: "Just Enough Throwing In Fluids (JETIF)(物品丢入流体)"
+	}]
+}

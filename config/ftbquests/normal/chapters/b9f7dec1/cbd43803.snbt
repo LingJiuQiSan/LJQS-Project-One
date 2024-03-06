@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/7234.html",
+		"",
+		"允许你拦截收到的消息。按F12打开GUI。"
+	],
+	tasks: [{
+		uid: "d630f307",
+		type: "checkmark",
+		title: "ChatFlow"
+	}]
+}

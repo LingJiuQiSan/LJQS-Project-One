@@ -1,0 +1,14 @@
+{
+	icon: "integratednbt:nbt_extractor",
+	x: 6.0d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/3635.html"
+	],
+	tasks: [{
+		uid: "9daf9055",
+		type: "checkmark",
+		title: "Integrated NBT(NBT 联合)"
+	}]
+}

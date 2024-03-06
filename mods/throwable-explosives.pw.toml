@@ -1,0 +1,13 @@
+name = "Throwable Explosives"
+filename = "ThrowableExplosives-1.12.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c6fd59c8e8f2508f541b9ffa4df9b66691c6df6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3655030
+project-id = 456900

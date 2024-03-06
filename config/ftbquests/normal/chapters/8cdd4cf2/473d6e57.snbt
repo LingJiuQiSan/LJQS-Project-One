@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/12334.html",
+		"",
+		"允许你调整实体渲染距离。"
+	],
+	tasks: [{
+		uid: "c2b932de",
+		type: "checkmark",
+		title: "Entity Distance(实体距离)"
+	}]
+}

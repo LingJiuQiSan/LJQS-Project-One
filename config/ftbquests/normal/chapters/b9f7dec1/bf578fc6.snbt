@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/2130.html",
+		"",
+		"精英怪Mod。"
+	],
+	tasks: [{
+		uid: "6d385506",
+		type: "checkmark",
+		title: "Champions(冠军/强敌)"
+	}]
+}

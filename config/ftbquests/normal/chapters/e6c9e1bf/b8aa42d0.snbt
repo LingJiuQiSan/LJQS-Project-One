@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/4618.html",
+		"",
+		"以3D立体的方式渲染玩家皮肤的第二层。"
+	],
+	tasks: [{
+		uid: "1a87744e",
+		type: "checkmark",
+		title: "Skin Layers 3D(3D 皮肤层)"
+	}]
+}

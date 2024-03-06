@@ -1,0 +1,14 @@
+{
+	icon: "thaumadditions:mithminite_smelter",
+	x: 0.0d,
+	y: 1.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/3076.html"
+	],
+	tasks: [{
+		uid: "7354d9b4",
+		type: "checkmark",
+		title: "Thaumic Additions: Reconstructed(神秘领域：重构)"
+	}]
+}

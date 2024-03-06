@@ -1,0 +1,13 @@
+name = "ZenCloche"
+filename = "zencloche-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5fae1bbad2c8ef2c862daa56d77f86f563bf0bff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5052239
+project-id = 916170

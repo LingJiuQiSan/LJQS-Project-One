@@ -1,0 +1,73 @@
+{
+	icon: {
+		id: "conarm:chestplate",
+		tag: {
+			TinkerData: {
+				Materials: [
+					"infinity_metal",
+					"infinity_metal",
+					"infinity_metal"
+				],
+				Modifiers: []
+			},
+			Stats: {
+				Durability: 24000,
+				Defense: 69.75f,
+				Toughness: 0.0f,
+				FreeModifiers: 3
+			},
+			StatsOriginal: {
+				Durability: 24000,
+				Defense: 69.75f,
+				Toughness: 0.0f,
+				FreeModifiers: 3
+			},
+			Modifiers: [{
+				identifier: "tconevo.null_almighty_armor",
+				color: -11757164,
+				level: 1
+			},
+			{
+				CanonicalTraitLevel: 1,
+				identifier: "tconevo.gale_force_armor",
+				color: -11757164,
+				level: 3
+			},
+			{
+				identifier: "tconevo.infinitum",
+				color: -11757164,
+				level: 1
+			},
+			{
+				identifier: "tconevo.eternity_armor",
+				color: -11757164,
+				level: 1
+			},
+			{
+				identifier: "tconevo.celestial_armor",
+				color: -11757164,
+				level: 1
+			}],
+			Traits: [
+				"tconevo.null_almighty_armor",
+				"tconevo.gale_force1_armor",
+				"tconevo.infinitum",
+				"tconevo.eternity_armor",
+				"tconevo.celestial_armor"
+			],
+			Unbreakable: 1b,
+			ConArmEquipmentSlot: 4
+		}
+	},
+	x: 3.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1318.html"
+	],
+	tasks: [{
+		uid: "57b0c14c",
+		type: "checkmark",
+		title: "Construct's Armory(匠魂盔甲)"
+	}]
+}

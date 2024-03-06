@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/676.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "70916a68",
+		type: "checkmark",
+		title: "BDLib"
+	}]
+}

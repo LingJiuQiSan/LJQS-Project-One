@@ -1,0 +1,13 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2106.html"
+	],
+	tasks: [{
+		uid: "19a0f4ef",
+		type: "checkmark",
+		title: "Snow! Real Magic!(雪！真实的魔法！)"
+	}]
+}

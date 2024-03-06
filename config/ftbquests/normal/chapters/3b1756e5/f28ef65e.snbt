@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/6874.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "76c7e25d",
+		type: "checkmark",
+		title: "Time Core"
+	}]
+}

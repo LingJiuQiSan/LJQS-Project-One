@@ -1,0 +1,14 @@
+{
+	icon: "immersivepetroleum:schematic",
+	x: 1.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/819.html"
+	],
+	tasks: [{
+		uid: "d45ba6a6",
+		type: "checkmark",
+		title: "Immersive Petroleum(沉浸原油)"
+	}]
+}

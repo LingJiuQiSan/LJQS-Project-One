@@ -1,0 +1,16 @@
+{
+	icon: "ae2stuff:grower",
+	x: 7.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/13290.html",
+		"",
+		" Minecraft 1.12.2 的AE2 Stuff分支"
+	],
+	tasks: [{
+		uid: "8d9853bf",
+		type: "checkmark",
+		title: "AE2 Stuff Unofficial"
+	}]
+}

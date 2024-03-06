@@ -1,0 +1,16 @@
+{
+	icon: "compactmachines3:fieldprojector",
+	x: 1.5d,
+	y: 4.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/712.html",
+		"",
+		"用多方块和催化剂制作一些物品。"
+	],
+	tasks: [{
+		uid: "1122116d",
+		type: "checkmark",
+		title: "Compact Machines(更多空间/压缩空间)"
+	}]
+}

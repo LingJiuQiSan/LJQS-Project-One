@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/4762.html",
+		"",
+		"可以让玩家把泥土转为草径。"
+	],
+	tasks: [{
+		uid: "ef58377b",
+		type: "checkmark",
+		title: "Dirt2Path"
+	}]
+}

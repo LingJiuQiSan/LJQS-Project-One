@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 6.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/5988.html"
+	],
+	tasks: [{
+		uid: "e27207aa",
+		type: "checkmark",
+		title: "OpenComputers Drivers for Tinkers Construct"
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	icon: {
+		id: "extendedae:infinity_cell",
+		tag: {
+			r: {
+				FluidName: "water",
+				Count: 0b,
+				Cnt: 1L,
+				Req: 0L,
+				Craft: 0b
+			},
+			t: "f"
+		}
+	},
+	x: 4.5d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/11534.html",
+		"",
+		"为AE添加了无限水和无限圆石磁盘。"
+	],
+	tasks: [{
+		uid: "afe672d5",
+		type: "checkmark",
+		title: "ExtendedAE(AE2扩展)"
+	}]
+}

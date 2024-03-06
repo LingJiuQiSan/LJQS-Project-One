@@ -1,0 +1,13 @@
+{
+	icon: "wrcbe:wireless_logic",
+	x: 1.5d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/264.html"
+	],
+	tasks: [{
+		uid: "2fa7de76",
+		type: "checkmark",
+		title: "Wireless Redstone CBE(无线红石)"
+	}]
+}

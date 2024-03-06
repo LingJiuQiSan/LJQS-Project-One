@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/718.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "87534e14",
+		type: "checkmark",
+		title: "FTB Library (Legacy)(FTB Library（旧版）)"
+	}]
+}

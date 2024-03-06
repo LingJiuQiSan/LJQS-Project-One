@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/3004.html",
+		"",
+		"你一定会用上的。"
+	],
+	tasks: [{
+		uid: "ff42785c",
+		type: "checkmark",
+		title: "FTB Ultimine(连锁破坏)"
+	}]
+}

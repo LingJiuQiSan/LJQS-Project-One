@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/alfinivia",
+		"",
+		"这是一个调整mod。它调整事物，也被人们调整。如果没有任何配置，这个模组什么也不做。"
+	],
+	tasks: [{
+		uid: "39a62ef8",
+		type: "checkmark",
+		title: "Alfinivia"
+	}]
+}

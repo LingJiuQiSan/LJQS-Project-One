@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/473.html"
+	],
+	tasks: [{
+		uid: "26547e90",
+		type: "checkmark",
+		title: "Baubles(饰品栏)"
+	}]
+}

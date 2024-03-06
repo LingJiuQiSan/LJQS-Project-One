@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/700.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "6cfce679",
+		type: "checkmark",
+		title: "Guide-API(指南)"
+	}]
+}

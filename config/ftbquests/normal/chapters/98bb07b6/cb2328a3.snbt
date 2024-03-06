@@ -1,0 +1,13 @@
+{
+	icon: "projectred-integration:gate",
+	x: 6.0d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/2858.html"
+	],
+	tasks: [{
+		uid: "c7406da1",
+		type: "checkmark",
+		title: "Project Red - Integration(红石计划：集成)"
+	}]
+}

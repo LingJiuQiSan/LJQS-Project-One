@@ -1,0 +1,16 @@
+{
+	icon: "testdummy:dummy",
+	x: 1.5d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1139.html",
+		"",
+		"让你测伤害的假人。"
+	],
+	tasks: [{
+		uid: "486627ea",
+		type: "checkmark",
+		title: "MmmMmmMmmMmm (Target Dummy)(试验假人)"
+	}]
+}

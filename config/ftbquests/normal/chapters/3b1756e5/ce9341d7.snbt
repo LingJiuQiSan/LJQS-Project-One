@@ -1,0 +1,15 @@
+{
+	x: 10.5d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/3889.html",
+		"",
+		"允许自定义神秘时代的研究。"
+	],
+	tasks: [{
+		uid: "46bf6215",
+		type: "checkmark",
+		title: "Thaumcraft Research Patcher"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/reach-fix",
+		"",
+		"修复了实体命中的一些错误。"
+	],
+	tasks: [{
+		uid: "eb555e93",
+		type: "checkmark",
+		title: "Reach Fix"
+	}]
+}

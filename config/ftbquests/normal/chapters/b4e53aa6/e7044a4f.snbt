@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/forgelin-continuous",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "37fb9bf7",
+		type: "checkmark",
+		title: "Forgelin-Continuous"
+	}]
+}

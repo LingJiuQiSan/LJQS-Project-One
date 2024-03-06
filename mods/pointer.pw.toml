@@ -1,0 +1,13 @@
+name = "Pointer"
+filename = "pointer-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5631d36c0baee79e4522d897d5869bdf4cfc668"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4307985
+project-id = 644875

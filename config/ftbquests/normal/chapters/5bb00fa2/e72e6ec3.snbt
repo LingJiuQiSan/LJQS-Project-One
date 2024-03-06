@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/1131.html",
+		"",
+		"让Xnet支持通用机械的气体和开放式电脑。"
+	],
+	tasks: [{
+		uid: "e1787317",
+		type: "checkmark",
+		title: "YNot"
+	}]
+}

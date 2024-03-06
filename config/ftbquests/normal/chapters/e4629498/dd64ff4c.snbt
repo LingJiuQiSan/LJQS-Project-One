@@ -1,0 +1,15 @@
+{
+	icon: "xtones:base",
+	x: 1.5d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/774.html",
+		"",
+		"好多装饰方块！"
+	],
+	tasks: [{
+		uid: "ef6d105a",
+		type: "checkmark",
+		title: "Xtones"
+	}]
+}

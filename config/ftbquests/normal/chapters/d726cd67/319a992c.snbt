@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/4828.html",
+		"",
+		"F3+R重载声音。"
+	],
+	tasks: [{
+		uid: "19265b2f",
+		type: "checkmark",
+		title: "Reload Audio Driver(音频驱动重载)"
+	}]
+}

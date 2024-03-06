@@ -1,0 +1,14 @@
+{
+	icon: "lostmagic:scribe_blood",
+	x: 4.5d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2336.html"
+	],
+	tasks: [{
+		uid: "1f0d7e9f",
+		type: "checkmark",
+		title: "Lost Magic(失落的魔法)"
+	}]
+}

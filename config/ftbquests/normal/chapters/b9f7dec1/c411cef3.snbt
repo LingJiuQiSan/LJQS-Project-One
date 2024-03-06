@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 7.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/3346.html"
+	],
+	tasks: [{
+		uid: "64f9ec52",
+		type: "checkmark",
+		title: "CraftTweaker Integration(CrT集成)"
+	}]
+}

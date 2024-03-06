@@ -1,0 +1,14 @@
+{
+	icon: "unstabletools:unstable_pickaxe",
+	x: 1.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/8722.html"
+	],
+	tasks: [{
+		uid: "104d4d7c",
+		type: "checkmark",
+		title: "Unstable Tools(不稳定金属工具)"
+	}]
+}

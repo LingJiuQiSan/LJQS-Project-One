@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/7355.html",
+		"",
+		"修复了AE2破坏面板的两个问题。"
+	],
+	tasks: [{
+		uid: "be4a6b7d",
+		type: "checkmark",
+		title: "PlaneFix"
+	}]
+}

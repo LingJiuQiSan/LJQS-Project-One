@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/openglasses2"
+	],
+	tasks: [{
+		uid: "8f35d220",
+		type: "checkmark",
+		title: "OpenGlasses2"
+	}]
+}

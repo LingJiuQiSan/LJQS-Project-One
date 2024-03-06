@@ -1,0 +1,14 @@
+{
+	icon: "naturesaura:gold_leaf",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/1547.html"
+	],
+	tasks: [{
+		uid: "abacc9a2",
+		type: "checkmark",
+		title: "Nature's Aura(自然灵气)"
+	}]
+}

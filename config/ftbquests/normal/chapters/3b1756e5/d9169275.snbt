@@ -1,0 +1,14 @@
+{
+	icon: "thermaldynamics:duct_0 1 5",
+	x: 1.5d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/480.html"
+	],
+	tasks: [{
+		uid: "34cc07ca",
+		type: "checkmark",
+		title: "Thermal Dynamics(热动力学)"
+	}]
+}

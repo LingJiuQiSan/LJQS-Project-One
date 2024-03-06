@@ -1,0 +1,16 @@
+{
+	icon: "energymeters:meter",
+	x: 4.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/energy-meters",
+		"",
+		"添加了电能表。"
+	],
+	tasks: [{
+		uid: "44909abc",
+		type: "checkmark",
+		title: "Energy Meters"
+	}]
+}

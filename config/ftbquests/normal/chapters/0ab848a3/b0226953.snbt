@@ -1,0 +1,21 @@
+{
+	icon: {
+		id: "soot:essence",
+		tag: {
+			type: "chaos"
+		}
+	},
+	x: 4.5d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1516.html",
+		"",
+		"余烬的附属。"
+	],
+	tasks: [{
+		uid: "7a9cb7e4",
+		type: "checkmark",
+		title: "Soot(烟尘)"
+	}]
+}

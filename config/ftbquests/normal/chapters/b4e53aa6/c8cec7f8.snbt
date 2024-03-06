@@ -1,0 +1,14 @@
+{
+	icon: "flopper:flopper",
+	x: 6.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2096.html"
+	],
+	tasks: [{
+		uid: "a05da4a9",
+		type: "checkmark",
+		title: "Flopper(流体漏斗)"
+	}]
+}

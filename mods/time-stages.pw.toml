@@ -1,0 +1,13 @@
+name = "Time Stages"
+filename = "Time-Stages-1.12.2-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1fb91a01049abd189fe9e22fcf01b0b6f24cdac2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4103322
+project-id = 285375

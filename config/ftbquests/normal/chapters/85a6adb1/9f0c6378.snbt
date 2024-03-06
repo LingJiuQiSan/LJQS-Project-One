@@ -1,0 +1,12 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/1083.html"
+	],
+	tasks: [{
+		uid: "ba54518f",
+		type: "checkmark",
+		title: "Dynamic Surroundings(动态环境/动态环绕)"
+	}]
+}

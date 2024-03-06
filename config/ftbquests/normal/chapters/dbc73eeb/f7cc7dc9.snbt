@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/479.html"
+	],
+	tasks: [{
+		uid: "ca06fc01",
+		type: "checkmark",
+		title: "UniDict(矿辞统一)"
+	}]
+}

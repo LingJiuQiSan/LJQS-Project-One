@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/2497.html",
+		"",
+		"可以穿两套盔甲，其中一套用于展示，无实际效果。"
+	],
+	tasks: [{
+		uid: "b76f3b01",
+		type: "checkmark",
+		title: "Cosmetic Armor Reworked(装盔甲重置版)"
+	}]
+}

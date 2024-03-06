@@ -1,0 +1,14 @@
+{
+	icon: "thaumicwonders:primordial_accelerator",
+	x: 6.0d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2338.html"
+	],
+	tasks: [{
+		uid: "081d0f2a",
+		type: "checkmark",
+		title: "Thaumic Wonders(神秘奇境)"
+	}]
+}

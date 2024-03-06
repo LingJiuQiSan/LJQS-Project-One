@@ -1,0 +1,16 @@
+{
+	icon: "bloodtinker:blood_bronze_ingot",
+	x: 6.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/5981.html",
+		"",
+		"添加血青铜材料。"
+	],
+	tasks: [{
+		uid: "3b5e24ec",
+		type: "checkmark",
+		title: "Tinkering with Blood Magic"
+	}]
+}

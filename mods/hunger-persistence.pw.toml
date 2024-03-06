@@ -1,0 +1,13 @@
+name = "Hunger Persistence"
+filename = "HungerPersistence-mc1.12-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f25a2afb3f3f336d712d6fae6b1f8f95e99d6900"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2442629
+project-id = 258923

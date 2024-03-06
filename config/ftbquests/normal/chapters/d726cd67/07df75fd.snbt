@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/1036.html",
+		"",
+		"用来加载资源。"
+	],
+	tasks: [{
+		uid: "7a353f05",
+		type: "checkmark",
+		title: "Resource Loader(资源加载)"
+	}]
+}

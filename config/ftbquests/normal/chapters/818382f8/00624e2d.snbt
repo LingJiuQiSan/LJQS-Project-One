@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/1017.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "84aafe13",
+		type: "checkmark",
+		title: "WrapUp"
+	}]
+}

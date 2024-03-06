@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/1163.html",
+		"",
+		"为神秘农业添加了更多种子。"
+	],
+	tasks: [{
+		uid: "f02c5bb4",
+		type: "checkmark",
+		title: "JARGCA (JAOPCA神秘农业附属)"
+	}]
+}

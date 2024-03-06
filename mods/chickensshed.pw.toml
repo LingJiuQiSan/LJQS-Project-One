@@ -1,0 +1,13 @@
+name = "ChickensShed"
+filename = "CSC-1.12-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6082d5b713c36c6fbea4ced5fdad64bc281b1525"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2663616
+project-id = 282684

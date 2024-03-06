@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/zen-toolforge",
+		"",
+		"用于修改匠魂。"
+	],
+	tasks: [{
+		uid: "2bae5dd5",
+		type: "checkmark",
+		title: "Zen Toolforge"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	icon: "animus:blockbloodsapling",
+	x: 4.5d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1888.html",
+		"",
+		"这个模组增加了更多的仪式和印记，以提高你在血魔法中的游玩体验。"
+	],
+	tasks: [{
+		uid: "678aeac3",
+		type: "checkmark",
+		title: "Animus"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	icon: "projectred-expansion:charged_battery",
+	x: 0.0d,
+	y: 7.5d,
+	text: [
+		"https://www.mcmod.cn/class/2875.html"
+	],
+	tasks: [{
+		uid: "0ef3efeb",
+		type: "checkmark",
+		title: "Project Red - Expansion(红石计划：机械)"
+	}]
+}

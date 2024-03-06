@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/999.html",
+		"",
+		"允许你在告示牌便捷使用颜色代码。"
+	],
+	tasks: [{
+		uid: "ed65bb3c",
+		type: "checkmark",
+		title: "ColorUtility(颜色代码)"
+	}]
+}

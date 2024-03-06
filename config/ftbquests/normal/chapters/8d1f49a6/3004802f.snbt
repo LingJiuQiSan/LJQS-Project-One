@@ -1,0 +1,16 @@
+{
+	icon: "ocsensors:sensor",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2997.html",
+		"",
+		"开放式电脑的传感器拓展。"
+	],
+	tasks: [{
+		uid: "b048abf5",
+		type: "checkmark",
+		title: "OC Sensors"
+	}]
+}

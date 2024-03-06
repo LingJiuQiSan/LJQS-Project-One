@@ -1,0 +1,13 @@
+name = "Foregoing RubberTrees"
+filename = "foregoing-rubbertrees-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f50d668cc6de9fb3d23a092690579c19a058497"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3008458
+project-id = 395019

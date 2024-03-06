@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/3187.html",
+		"",
+		"加快神秘时代6的加载速度。"
+	],
+	tasks: [{
+		uid: "302f8187",
+		type: "checkmark",
+		title: "Thaumic Speedup"
+	}]
+}

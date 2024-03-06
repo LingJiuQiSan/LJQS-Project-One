@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/562.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "a7591a2f",
+		type: "checkmark",
+		title: "CodeChicken Lib"
+	}]
+}

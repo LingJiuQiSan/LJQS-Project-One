@@ -1,0 +1,14 @@
+{
+	icon: "eternalsingularity:eternal_singularity",
+	x: 1.5d,
+	y: 4.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/561.html"
+	],
+	tasks: [{
+		uid: "786bf656",
+		type: "checkmark",
+		title: "Eternal Singularity(永恒奇点)"
+	}]
+}

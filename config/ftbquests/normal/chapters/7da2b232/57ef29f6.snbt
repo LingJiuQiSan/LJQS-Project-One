@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 6.0d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks-unofficial",
+		"",
+		"真的很实用！"
+	],
+	tasks: [{
+		uid: "058b4a29",
+		type: "checkmark",
+		title: "Mouse Tweaks Unofficial"
+	}]
+}

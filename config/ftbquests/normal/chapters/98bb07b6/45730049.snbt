@@ -1,0 +1,14 @@
+{
+	icon: "harvestcraft:windygarden",
+	x: 1.5d,
+	y: 1.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/2372.html"
+	],
+	tasks: [{
+		uid: "1ed3abf1",
+		type: "checkmark",
+		title: "Pams HarvestCraft"
+	}]
+}

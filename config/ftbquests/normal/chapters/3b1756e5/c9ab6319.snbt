@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/tabulator",
+		"",
+		"允许通过 crafttweaker 从创造选项卡中删除创造选项卡和特定项目"
+	],
+	tasks: [{
+		uid: "b77c82ad",
+		type: "checkmark",
+		title: "Tabulator"
+	}]
+}

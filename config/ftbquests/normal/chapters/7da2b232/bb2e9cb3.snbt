@@ -1,0 +1,14 @@
+{
+	icon: "modularrouters:item_router",
+	x: 1.5d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/892.html"
+	],
+	tasks: [{
+		uid: "59241871",
+		type: "checkmark",
+		title: "Modular Routers(模块化路由器)"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/855.html ",
+		"",
+		"查看各种掉落。"
+	],
+	tasks: [{
+		uid: "ad8a1195",
+		type: "checkmark",
+		title: "Just Enough Resources (JER)"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	icon: "mctsmelteryio:machine 1 2",
+	x: 1.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/5987.html"
+	],
+	tasks: [{
+		uid: "44b209f3",
+		type: "checkmark",
+		title: "Smeltery IO"
+	}]
+}

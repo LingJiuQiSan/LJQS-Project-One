@@ -1,0 +1,16 @@
+{
+	icon: "jecalculation:item_calculator",
+	x: 0.0d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/3643.html",
+		"",
+		"非常好计算器，使我配方清晰。"
+	],
+	tasks: [{
+		uid: "62aac821",
+		type: "checkmark",
+		title: "Just Enough Calculation"
+	}]
+}

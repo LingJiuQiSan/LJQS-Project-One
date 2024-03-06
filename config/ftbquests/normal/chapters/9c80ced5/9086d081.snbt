@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/1290.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "ab822b5c",
+		type: "checkmark",
+		title: "Kiwi"
+	}]
+}

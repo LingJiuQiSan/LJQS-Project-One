@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/4053.html",
+		"",
+		"更改界面。"
+	],
+	tasks: [{
+		uid: "56bf38f4",
+		type: "checkmark",
+		title: "FancyMenu"
+	}]
+}

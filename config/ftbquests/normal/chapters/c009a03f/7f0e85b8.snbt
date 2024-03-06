@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/7939.html"
+	],
+	tasks: [{
+		uid: "bb4d9a15",
+		type: "checkmark",
+		title: "GroovyScript"
+	}]
+}

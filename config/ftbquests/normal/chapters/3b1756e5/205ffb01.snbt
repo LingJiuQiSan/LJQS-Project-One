@@ -1,0 +1,9 @@
+{
+	x: 3.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "aacdf2d6",
+		type: "checkmark",
+		title: "Tool Progression(工具进阶)"
+	}]
+}

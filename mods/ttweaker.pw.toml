@@ -1,0 +1,13 @@
+name = "TTweaker"
+filename = "TTweaker-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "631926805d610bfc583b9a8444ec15ca8e77dbbb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4636059
+project-id = 616405

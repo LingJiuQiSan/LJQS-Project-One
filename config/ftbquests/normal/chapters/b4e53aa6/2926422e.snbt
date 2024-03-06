@@ -1,0 +1,14 @@
+{
+	icon: "fluiddrawers:tank",
+	x: 1.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/3046.html"
+	],
+	tasks: [{
+		uid: "a5262f0d",
+		type: "checkmark",
+		title: "Fluid Drawers(储液抽屉)"
+	}]
+}

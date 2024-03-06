@@ -1,0 +1,13 @@
+name = "Wireless Utilities"
+filename = "wirelessutils-1.10.138.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ac1ed73767b321b8aa32541fceacd23aab58360"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4715235
+project-id = 306122

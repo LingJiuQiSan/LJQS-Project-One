@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/3826.html"
+	],
+	tasks: [{
+		uid: "d831801d",
+		type: "checkmark",
+		title: "In Control!"
+	}]
+}

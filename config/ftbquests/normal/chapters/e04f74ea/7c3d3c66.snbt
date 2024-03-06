@@ -1,0 +1,14 @@
+{
+	icon: "architecturecraft:hammer",
+	x: 4.5d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1403.html"
+	],
+	tasks: [{
+		uid: "8789f7fc",
+		type: "checkmark",
+		title: "ArchitectureCraft - TridentMC Version(建筑师工艺重置版)"
+	}]
+}

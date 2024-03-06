@@ -1,0 +1,14 @@
+{
+	icon: "thaumicbases:dustblock",
+	x: 3.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/thaumic-bases-unofficial"
+	],
+	tasks: [{
+		uid: "bf21eed2",
+		type: "checkmark",
+		title: "Thaumic Bases Unofficial"
+	}]
+}

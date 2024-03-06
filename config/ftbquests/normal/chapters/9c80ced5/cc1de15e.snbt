@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/13339.html",
+		"",
+		"一个优化mod。"
+	],
+	tasks: [{
+		uid: "68d654eb",
+		type: "checkmark",
+		title: "Keybind Description Fix"
+	}]
+}

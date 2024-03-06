@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/756.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "5d62ae78",
+		type: "checkmark",
+		title: "HammerLib(锤子核心)"
+	}]
+}

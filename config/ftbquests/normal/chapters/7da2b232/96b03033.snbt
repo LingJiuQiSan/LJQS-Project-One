@@ -1,0 +1,13 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/6004.html"
+	],
+	tasks: [{
+		uid: "fbf81769",
+		type: "checkmark",
+		title: "Material Changer"
+	}]
+}

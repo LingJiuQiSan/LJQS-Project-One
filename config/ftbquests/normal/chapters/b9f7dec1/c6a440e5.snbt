@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/808.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "be8a8c84",
+		type: "checkmark",
+		title: "Chameleon(变色龙)"
+	}]
+}

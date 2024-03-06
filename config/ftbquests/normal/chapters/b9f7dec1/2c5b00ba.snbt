@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1191.html"
+	],
+	tasks: [{
+		uid: "bcc400d5",
+		type: "checkmark",
+		title: "Controlling(键位冲突显示)"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	icon: "globalxp:xp_block",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/5081.html",
+		"",
+		"添加了经验方块。"
+	],
+	tasks: [{
+		uid: "d76ef3cc",
+		type: "checkmark",
+		title: "Global XP"
+	}]
+}

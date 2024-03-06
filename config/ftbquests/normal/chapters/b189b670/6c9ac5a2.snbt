@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/ingame-info-xml-addon-thaumcraft",
+		"",
+		"IGI神秘时代附属。"
+	],
+	tasks: [{
+		uid: "7b15058a",
+		type: "checkmark",
+		title: "InGame Info XML Addon - Thaumcraft"
+	}]
+}

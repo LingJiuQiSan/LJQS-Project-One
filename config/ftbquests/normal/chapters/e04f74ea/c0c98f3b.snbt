@@ -1,0 +1,16 @@
+{
+	icon: "avaritiaio:infinitecapacitor",
+	x: 9.0d,
+	y: 7.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1637.html",
+		"",
+		"使末影接口和无尽贪婪联动。"
+	],
+	tasks: [{
+		uid: "9aaf2e3f",
+		type: "checkmark",
+		title: "Avaritia IO(无尽贪婪：接口)"
+	}]
+}

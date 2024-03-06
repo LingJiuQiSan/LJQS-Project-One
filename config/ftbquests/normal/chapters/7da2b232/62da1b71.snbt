@@ -1,0 +1,15 @@
+{
+	icon: "mob_grinding_utils:saw",
+	x: 3.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/817.html",
+		"",
+		"添加了怪物捣碎器等。"
+	],
+	tasks: [{
+		uid: "e2743129",
+		type: "checkmark",
+		title: "Mob Grinding Utils(刷怪塔实用设备)"
+	}]
+}

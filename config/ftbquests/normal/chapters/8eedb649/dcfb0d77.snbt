@@ -1,0 +1,16 @@
+{
+	icon: "biggercraftingtables:autobiggercraftingtable 1 2",
+	x: 4.5d,
+	y: 3.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/3271.html",
+		"",
+		"添加了前期可以做的大工作台。"
+	],
+	tasks: [{
+		uid: "669961c2",
+		type: "checkmark",
+		title: "Bigger Crafting Tables"
+	}]
+}

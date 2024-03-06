@@ -1,0 +1,16 @@
+{
+	icon: "appliedenergistics2:controller",
+	x: 9.0d,
+	y: 0.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/5834.html",
+		"",
+		"这是Applied Energistcs 2的一个分支。"
+	],
+	tasks: [{
+		uid: "c12df6df",
+		type: "checkmark",
+		title: "AE2 Unofficial Extended Life(应用能源非官方延续版)"
+	}]
+}

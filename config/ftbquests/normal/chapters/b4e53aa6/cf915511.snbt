@@ -1,0 +1,16 @@
+{
+	icon: "ifgretro:rubber_sapling",
+	x: 7.5d,
+	y: 1.5d,
+	shape: "heart",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/foregoing-rubbertrees",
+		"",
+		"为工业先锋添加了橡胶树。"
+	],
+	tasks: [{
+		uid: "9de7e8ed",
+		type: "checkmark",
+		title: "Foregoing RubberTrees"
+	}]
+}

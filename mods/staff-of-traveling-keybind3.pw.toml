@@ -1,0 +1,13 @@
+name = "Staff Of Traveling Keybind"
+filename = "SOTkeybind-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c348b8bcc3dec2bc19ec40a1a624b0f504d70b04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3035720
+project-id = 331618

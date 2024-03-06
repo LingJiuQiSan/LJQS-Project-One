@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/3300.html"
+	],
+	tasks: [{
+		uid: "9d2a6e0e",
+		type: "checkmark",
+		title: "Calm Down Zombie Guy"
+	}]
+}

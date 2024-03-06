@@ -1,0 +1,13 @@
+{
+	icon: "projectred-illumination:lamp 1 16",
+	x: 7.5d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/2859.html"
+	],
+	tasks: [{
+		uid: "4c2fc094",
+		type: "checkmark",
+		title: "Project Red - Illumination(红石计划：照明)"
+	}]
+}

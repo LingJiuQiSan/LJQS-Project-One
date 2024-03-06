@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/775.html",
+		"",
+		"物流模组。"
+	],
+	tasks: [{
+		uid: "80776d99",
+		type: "checkmark",
+		title: "XNet"
+	}]
+}

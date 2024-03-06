@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 9.0d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/ttweaker",
+		"",
+		"支持 Psi"
+	],
+	tasks: [{
+		uid: "0d837b40",
+		type: "checkmark",
+		title: "TTweaker"
+	}]
+}

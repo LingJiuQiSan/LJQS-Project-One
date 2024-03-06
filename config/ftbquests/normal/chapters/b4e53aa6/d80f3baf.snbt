@@ -1,0 +1,21 @@
+{
+	icon: {
+		id: "botania:specialflower",
+		tag: {
+			type: "petro_petunia"
+		}
+	},
+	x: 7.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/floralchemy",
+		"",
+		"添加了一种将石油和其他液体燃料转化为魔力的花。"
+	],
+	tasks: [{
+		uid: "9e9ee5ef",
+		type: "checkmark",
+		title: "Floralchemy"
+	}]
+}

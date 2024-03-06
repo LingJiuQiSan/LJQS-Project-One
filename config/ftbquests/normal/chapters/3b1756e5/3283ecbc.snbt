@@ -1,0 +1,12 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/2443.html"
+	],
+	tasks: [{
+		uid: "c09c01bf",
+		type: "checkmark",
+		title: "Tinker's JEI"
+	}]
+}

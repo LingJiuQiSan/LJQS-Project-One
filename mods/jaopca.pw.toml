@@ -1,0 +1,13 @@
+name = "JAOPCA"
+filename = "JAOPCA-1.12.2-2.3.9.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d263146d1ad0d926af17ed15b6c683c02a9c074c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5130995
+project-id = 266936

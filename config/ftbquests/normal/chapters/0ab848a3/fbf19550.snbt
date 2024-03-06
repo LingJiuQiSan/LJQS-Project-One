@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2016.html",
+		"",
+		"投影。"
+	],
+	tasks: [{
+		uid: "74960c47",
+		type: "checkmark",
+		title: "Schematica"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	icon: "aether_legacy:skyroot_chest",
+	x: 1.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/6531.html",
+		"",
+		"为 Aether mod 添加了一些简单的功能。"
+	],
+	tasks: [{
+		uid: "4d2143e1",
+		type: "checkmark",
+		title: "Aether Continuation"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/1354.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "28d82f62",
+		type: "checkmark",
+		title: "Tesla Core Lib(特斯拉核心)"
+	}]
+}

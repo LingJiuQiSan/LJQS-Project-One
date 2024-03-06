@@ -1,0 +1,16 @@
+{
+	icon: "cookingforblockheads:sink",
+	x: 1.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/delightful-cuisine-for-woodheads",
+		"",
+		"懒人厨房的分支。"
+	],
+	tasks: [{
+		uid: "3956c2f9",
+		type: "checkmark",
+		title: "Delightful Cuisine for Woodheads"
+	}]
+}

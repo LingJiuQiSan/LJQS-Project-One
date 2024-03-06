@@ -1,0 +1,16 @@
+{
+	icon: "omniwand:wand",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/12620.html",
+		"",
+		"类似于变形工具。"
+	],
+	tasks: [{
+		uid: "4b3985d3",
+		type: "checkmark",
+		title: "Omniwand(全能魔杖)"
+	}]
+}

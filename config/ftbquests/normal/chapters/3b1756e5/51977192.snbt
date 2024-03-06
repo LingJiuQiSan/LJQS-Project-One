@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 9.0d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/tweaked-lib",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "9de8556f",
+		type: "checkmark",
+		title: "Tweaked Lib"
+	}]
+}

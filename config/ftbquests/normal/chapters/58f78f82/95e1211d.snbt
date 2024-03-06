@@ -1,0 +1,15 @@
+{
+	icon: "libvulpes:productboule 1 3",
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/604.html",
+		"",
+		"高级火箭的前置。"
+	],
+	tasks: [{
+		uid: "a41e9519",
+		type: "checkmark",
+		title: "LibVulpes"
+	}]
+}

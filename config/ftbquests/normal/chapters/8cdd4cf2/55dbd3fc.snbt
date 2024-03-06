@@ -1,0 +1,16 @@
+{
+	icon: "engineersdoors:door_treated",
+	x: 6.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2446.html",
+		"",
+		"沉浸工程附属装饰Mod。"
+	],
+	tasks: [{
+		uid: "aafa30ad",
+		type: "checkmark",
+		title: "Engineer's Doors(工程师的门)"
+	}]
+}

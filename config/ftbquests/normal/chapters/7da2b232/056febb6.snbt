@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/1923.html"
+	],
+	tasks: [{
+		uid: "c2cf0802",
+		type: "checkmark",
+		title: "MoreTweaker"
+	}]
+}

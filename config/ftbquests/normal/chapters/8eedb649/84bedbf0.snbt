@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/better-chat",
+		"",
+		"使聊天栏获得更多动画。"
+	],
+	tasks: [{
+		uid: "dbd33247",
+		type: "checkmark",
+		title: "Better Chat"
+	}]
+}

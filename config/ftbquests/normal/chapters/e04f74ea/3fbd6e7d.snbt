@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/7515.html",
+		"",
+		"添加了工匠工作台与其他模组的联动。"
+	],
+	tasks: [{
+		uid: "04f7d4da",
+		type: "checkmark",
+		title: "Artisan Integrations"
+	}]
+}

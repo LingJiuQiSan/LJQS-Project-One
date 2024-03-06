@@ -1,0 +1,22 @@
+{
+	icon: {
+		id: "simplyjetpacks:itemjetpack",
+		tag: {
+			Energy: 200000,
+			JetpackParticle: 0
+		}
+	},
+	x: 1.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/784.html",
+		"",
+		"L键开关悬停。"
+	],
+	tasks: [{
+		uid: "3207d252",
+		type: "checkmark",
+		title: "Simply Jetpacks 2(简易喷气背包2)"
+	}]
+}

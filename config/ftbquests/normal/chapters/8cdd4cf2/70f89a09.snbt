@@ -1,0 +1,16 @@
+{
+	icon: "gasconduits:item_gas_filter",
+	x: 0.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2666.html",
+		"",
+		"末影接口与通用机械联动。"
+	],
+	tasks: [{
+		uid: "52f52a69",
+		type: "checkmark",
+		title: "Gas Conduits(气体导管)"
+	}]
+}

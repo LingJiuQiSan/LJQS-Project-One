@@ -1,0 +1,16 @@
+{
+	icon: "thaumicenergistics:arcane_terminal",
+	x: 6.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/8481.html",
+		"",
+		"数字化神秘时代！"
+	],
+	tasks: [{
+		uid: "b448de0d",
+		type: "checkmark",
+		title: "Thaumic Energistics Extended Life(神秘能源延续版)"
+	}]
+}

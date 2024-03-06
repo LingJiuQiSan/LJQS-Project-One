@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/1800.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "d05e65c9",
+		type: "checkmark",
+		title: "LibNine"
+	}]
+}

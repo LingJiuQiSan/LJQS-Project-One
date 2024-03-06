@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1161.html",
+		"",
+		"沉浸工程园艺玻璃罩附属。"
+	],
+	tasks: [{
+		uid: "67d46b27",
+		type: "checkmark",
+		title: "Cloche Call"
+	}]
+}

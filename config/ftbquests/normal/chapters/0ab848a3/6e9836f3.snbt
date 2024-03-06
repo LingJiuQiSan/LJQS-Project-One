@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/sharing-tome",
+		"",
+		"神秘的知识共享之书。"
+	],
+	tasks: [{
+		uid: "b38d4d0d",
+		type: "checkmark",
+		title: "Sharing Tome"
+	}]
+}

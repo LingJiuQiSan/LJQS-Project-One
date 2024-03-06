@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/2989.html",
+		"",
+		"一个优化mod。"
+	],
+	tasks: [{
+		uid: "efe92b6a",
+		type: "checkmark",
+		title: "Dynamic View(动态视距)"
+	}]
+}

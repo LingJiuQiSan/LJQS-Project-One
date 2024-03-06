@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/5805.html",
+		"",
+		"在按住右Alt时可以不出现打字界面，潜行加右键编辑告示牌。"
+	],
+	tasks: [{
+		uid: "d4fb4dd9",
+		type: "checkmark",
+		title: "Better Signs"
+	}]
+}

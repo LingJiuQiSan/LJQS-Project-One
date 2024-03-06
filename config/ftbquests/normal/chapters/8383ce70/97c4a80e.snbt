@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	shape: "heart",
+	dependencies: [
+		"b3843e0f"
+	],
+	tasks: [{
+		uid: "a2238a73",
+		type: "checkmark",
+		title: "心形为主线任务要使用的模组。"
+	}]
+}

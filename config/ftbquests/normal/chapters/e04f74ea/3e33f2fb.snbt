@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/744.html",
+		"",
+		"AppleSkin 提供了一些默认情况下不可见的机制的信息。"
+	],
+	tasks: [{
+		uid: "2031aa47",
+		type: "checkmark",
+		title: "AppleSkin(苹果皮)"
+	}]
+}

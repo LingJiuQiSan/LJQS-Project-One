@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/1359.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "6421ede6",
+		type: "checkmark",
+		title: "More Libs"
+	}]
+}

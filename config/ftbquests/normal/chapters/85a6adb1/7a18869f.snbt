@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/2728.html",
+		"",
+		"为热力的能源炉添加了动画。"
+	],
+	tasks: [{
+		uid: "8b44aa03",
+		type: "checkmark",
+		title: "Dynamic Dynamos(能源炉动画)"
+	}]
+}

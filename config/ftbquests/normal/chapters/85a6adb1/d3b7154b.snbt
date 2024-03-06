@@ -1,0 +1,16 @@
+{
+	icon: "dimensionaledibles:overworld_cake",
+	x: 4.5d,
+	y: 1.5d,
+	shape: "heart",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/dimensional-edibles-nomifactory-edition",
+		"",
+		"维度蛋糕。"
+	],
+	tasks: [{
+		uid: "6ad95b3d",
+		type: "checkmark",
+		title: "Dimensional Edibles: Nomifactory Edition"
+	}]
+}

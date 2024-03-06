@@ -1,0 +1,16 @@
+{
+	icon: "auraddons:block_rainbow_beacon",
+	x: 3.0d,
+	y: 7.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/7833.html",
+		"",
+		"自然灵气附属，添加了一些装饰方块。"
+	],
+	tasks: [{
+		uid: "276ab1a3",
+		type: "checkmark",
+		title: "Auraddons"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	icon: "actuallyadditions:block_atomic_reconstructor",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/550.html"
+	],
+	tasks: [{
+		uid: "84ce22e5",
+		type: "checkmark",
+		title: "Actually Additions(实用拓展)"
+	}]
+}

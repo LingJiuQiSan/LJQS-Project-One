@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1169.html",
+		"",
+		"允许你破坏一个半砖而不是同时破坏一格中的两个半砖。"
+	],
+	tasks: [{
+		uid: "106834ec",
+		type: "checkmark",
+		title: "KleeSlabs(更好地破坏半砖)"
+	}]
+}

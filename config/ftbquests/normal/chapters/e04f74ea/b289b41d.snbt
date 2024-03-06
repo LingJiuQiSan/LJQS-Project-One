@@ -1,0 +1,16 @@
+{
+	icon: "artisanworktables:toolbox",
+	x: 3.0d,
+	y: 6.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/1559.html",
+		"",
+		"Artisan Worktables 提供专为模组包制造者设计的主题工作台。"
+	],
+	tasks: [{
+		uid: "e13c967f",
+		type: "checkmark",
+		title: "Artisan Worktables(工匠之作/工匠工作台)"
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/1384.html"
+	],
+	tasks: [{
+		uid: "e206c2b0",
+		type: "checkmark",
+		title: "BetterFPS(更好的FPS)"
+	}]
+}

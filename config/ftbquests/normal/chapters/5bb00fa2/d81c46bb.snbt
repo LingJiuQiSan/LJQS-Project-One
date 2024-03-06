@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/4999.html"
+	],
+	tasks: [{
+		uid: "4d5b7b77",
+		type: "checkmark",
+		title: "Yet Another Recipe Conflict Fixer (YARCF)(合成冲突消除)"
+	}]
+}

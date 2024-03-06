@@ -1,0 +1,14 @@
+{
+	icon: "demagnetize:demagnetizer_advanced",
+	x: 3.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/3142.html"
+	],
+	tasks: [{
+		uid: "1841bbd4",
+		type: "checkmark",
+		title: "Demagnetize(消磁)"
+	}]
+}

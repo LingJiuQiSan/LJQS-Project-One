@@ -1,0 +1,14 @@
+{
+	icon: "aeadditions:storage.component 1 13",
+	x: 0.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/5628.html"
+	],
+	tasks: [{
+		uid: "e14cff63",
+		type: "checkmark",
+		title: "AE Additions - ExtraCells2 Fork"
+	}]
+}

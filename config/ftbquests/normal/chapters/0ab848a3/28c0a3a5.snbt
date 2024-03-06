@@ -1,0 +1,14 @@
+{
+	icon: "simplesmelteryaccelerator:smeltery_accelerator",
+	x: 7.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2793.html"
+	],
+	tasks: [{
+		uid: "d2dfc0ea",
+		type: "checkmark",
+		title: "Simple Smeltery Accelerator(匠魂冶炼炉加速器)"
+	}]
+}

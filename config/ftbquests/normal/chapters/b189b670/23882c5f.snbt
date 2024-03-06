@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/7185.html",
+		"",
+		"IGI附属，添加TPS和MSPT显示。"
+	],
+	tasks: [{
+		uid: "db2a235d",
+		type: "checkmark",
+		title: "IGIExteneded(IGI 信息扩展)"
+	}]
+}

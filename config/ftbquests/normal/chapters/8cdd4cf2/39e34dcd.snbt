@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/3058.html",
+		"",
+		"一个优化Mod。"
+	],
+	tasks: [{
+		uid: "f1c5cb75",
+		type: "checkmark",
+		title: "Entity Culling(实体渲染机制优化)"
+	}]
+}

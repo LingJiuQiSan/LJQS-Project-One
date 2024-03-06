@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 9.0d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/tweaked-excavation",
+		"",
+		"此 mod 为 Immersive Engineering 的矿物和挖掘机添加了更多配置（和 JEI 支持）选项"
+	],
+	tasks: [{
+		uid: "79c7f19b",
+		type: "checkmark",
+		title: "Tweaked Excavation"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	icon: "deepmoblearningbm:digital_agonizer",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/11621.html",
+		"",
+		"深度怪物学习和血魔法2的联动。"
+	],
+	tasks: [{
+		uid: "200b3033",
+		type: "checkmark",
+		title: "Deep Blood Evolution"
+	}]
+}

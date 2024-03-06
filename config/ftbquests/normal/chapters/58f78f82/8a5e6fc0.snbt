@@ -1,0 +1,14 @@
+{
+	icon: "threng:material",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1799.html"
+	],
+	tasks: [{
+		uid: "a0852e7d",
+		type: "checkmark",
+		title: "Lazy AE2(懒人AE2)"
+	}]
+}

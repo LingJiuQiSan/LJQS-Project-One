@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/685.html",
+		"",
+		"一个前置。"
+	],
+	tasks: [{
+		uid: "0c8c9dd9",
+		type: "checkmark",
+		title: "MCMultiPart"
+	}]
+}

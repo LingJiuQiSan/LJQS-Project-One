@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/805.html",
+		"",
+		"让你能查看林业的杂交。"
+	],
+	tasks: [{
+		uid: "1b094181",
+		type: "checkmark",
+		title: "JEI Bees"
+	}]
+}

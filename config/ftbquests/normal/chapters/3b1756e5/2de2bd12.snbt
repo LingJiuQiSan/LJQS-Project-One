@@ -1,0 +1,85 @@
+{
+	icon: {
+		id: "tconevo:tool_sceptre",
+		tag: {
+			TinkerData: {
+				Materials: [
+					"infinity_metal",
+					"infinity_metal",
+					"infinity_metal",
+					"infinity_metal"
+				],
+				Modifiers: []
+			},
+			Stats: {
+				Durability: 2057,
+				HarvestLevel: 93,
+				Attack: 7875.875f,
+				MiningSpeed: 24.975f,
+				AttackSpeedMultiplier: 1.0f,
+				FreeModifiers: 3,
+				DrawSpeed: 1.0f,
+				Range: 2.0f,
+				ProjectileBonusDamage: 0.0f
+			},
+			StatsOriginal: {
+				Durability: 2057,
+				HarvestLevel: 93,
+				Attack: 7875.875f,
+				MiningSpeed: 24.975f,
+				AttackSpeedMultiplier: 1.0f,
+				FreeModifiers: 3,
+				DrawSpeed: 1.0f,
+				Range: 2.0f,
+				ProjectileBonusDamage: 0.0f
+			},
+			Special: {
+				Categories: [
+					"tool",
+					"weapon",
+					"launcher"
+				]
+			},
+			Modifiers: [{
+				identifier: "tconevo.infinitum",
+				color: -11757164,
+				level: 1
+			},
+			{
+				identifier: "tconevo.omnipotence",
+				color: -11757164,
+				level: 1
+			}],
+			Traits: [
+				"tconevo.infinitum",
+				"tconevo.omnipotence"
+			],
+			Unbreakable: 1b
+		},
+		ForgeCaps: {
+			"plustic:fruitsalad_cap": {
+				Items: [],
+				Size: 5
+			},
+			"plustic:": {
+				Items: [],
+				Size: 1
+			},
+			"plustic:musicofthespheres_cap": {
+				Items: [],
+				Size: 1
+			}
+		}
+	},
+	x: 3.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2739.html"
+	],
+	tasks: [{
+		uid: "820356f6",
+		type: "checkmark",
+		title: "Tinkers' Evolution(匠魂进化)"
+	}]
+}

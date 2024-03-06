@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/4387.html",
+		"",
+		"就是控制里的键盘向导啦。"
+	],
+	tasks: [{
+		uid: "8fdd5456",
+		type: "checkmark",
+		title: "Keyboard Wizard(按键精灵)"
+	}]
+}

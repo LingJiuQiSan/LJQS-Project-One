@@ -1,0 +1,13 @@
+name = "The One Probe Community Edition"
+filename = "TheOneProbe-CE-1.12-1.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42dc6c041e83ce1f0c21881d47af6573fac81644"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5153499
+project-id = 885670

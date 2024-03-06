@@ -1,0 +1,15 @@
+{
+	icon: "unlimitedchiselworks:chisel_stonebrick_appliedenergistics2_sky_stone_brick_0",
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/2276.html",
+		"",
+		"凿子拓展模组。"
+	],
+	tasks: [{
+		uid: "a700cc10",
+		type: "checkmark",
+		title: "Unlimited Chisel Works"
+	}]
+}

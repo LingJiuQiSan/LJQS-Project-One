@@ -1,0 +1,16 @@
+{
+	icon: "warptheory:item_something",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/warpapocalypse",
+		"",
+		"神秘扭曲学"
+	],
+	tasks: [{
+		uid: "e0f4749d",
+		type: "checkmark",
+		title: "Warp Apocalypse"
+	}]
+}

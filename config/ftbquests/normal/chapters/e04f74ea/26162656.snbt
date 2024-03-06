@@ -1,0 +1,16 @@
+{
+	icon: "akashictome:tome",
+	x: 7.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/688.html",
+		"",
+		"多功能宝典。"
+	],
+	tasks: [{
+		uid: "fff4edd0",
+		type: "checkmark",
+		title: "Akashic Tome(阿卡什宝典)"
+	}]
+}

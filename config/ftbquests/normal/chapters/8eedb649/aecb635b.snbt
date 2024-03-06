@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/7853.html",
+		"",
+		"整理你的背包吧！"
+	],
+	tasks: [{
+		uid: "f41454f0",
+		type: "checkmark",
+		title: "Inventory Bogo Sorter"
+	}]
+}

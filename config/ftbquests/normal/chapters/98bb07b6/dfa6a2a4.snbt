@@ -1,0 +1,14 @@
+{
+	icon: "psicosts:flux_resonator",
+	x: 3.0d,
+	y: 7.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/5752.html"
+	],
+	tasks: [{
+		uid: "e3ef4515",
+		type: "checkmark",
+		title: "Psio"
+	}]
+}

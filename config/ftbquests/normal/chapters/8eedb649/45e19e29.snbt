@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/6107.html"
+	],
+	tasks: [{
+		uid: "55ab46d5",
+		type: "checkmark",
+		title: "Better Biome Blend(更好的生物群系过渡)"
+	}]
+}

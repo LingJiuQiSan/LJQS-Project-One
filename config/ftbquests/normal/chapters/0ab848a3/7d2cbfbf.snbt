@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/staff-of-traveling-keybind3",
+		"",
+		"enderio传送附属。"
+	],
+	tasks: [{
+		uid: "1b7d372a",
+		type: "checkmark",
+		title: "Staff Of Traveling Keybind"
+	}]
+}

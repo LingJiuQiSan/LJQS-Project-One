@@ -1,0 +1,21 @@
+{
+	icon: {
+		id: "botania:lexicon",
+		tag: {
+			knowledge.minecraft: 1b,
+			knowledge.relic: 1b,
+			knowledge.alfheim: 1b
+		}
+	},
+	x: 4.5d,
+	y: 6.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/332.html"
+	],
+	tasks: [{
+		uid: "4d874ee6",
+		type: "checkmark",
+		title: "Botania(植物魔法)"
+	}]
+}

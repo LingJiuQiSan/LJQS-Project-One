@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/4780.html",
+		"",
+		"完全消除修复物品的修复/附魔成本的增加，并删除铁砧上的等级上限，以便修复或附魔在40级以上进行。"
+	],
+	tasks: [{
+		uid: "98b3465b",
+		type: "checkmark",
+		title: "Anvil Patch - lawful"
+	}]
+}

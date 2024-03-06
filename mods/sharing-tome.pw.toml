@@ -1,0 +1,13 @@
+name = "Sharing Tome"
+filename = "sharetome-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb875c307a15ef093b9762a44e3cd40c0f3681fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2726239
+project-id = 324634

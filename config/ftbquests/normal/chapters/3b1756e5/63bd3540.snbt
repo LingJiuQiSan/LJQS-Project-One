@@ -1,0 +1,14 @@
+{
+	icon: "theaurorian:aurorianportalframebricks",
+	x: 9.0d,
+	y: 3.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/2383.html"
+	],
+	tasks: [{
+		uid: "f4751eb3",
+		type: "checkmark",
+		title: "The Aurorian(极光幽境)"
+	}]
+}

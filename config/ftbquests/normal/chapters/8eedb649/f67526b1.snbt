@@ -1,0 +1,16 @@
+{
+	icon: "bibliocraft:biblioclipboard",
+	x: 3.0d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/113.html",
+		"",
+		"添加了一些装饰和实用的物品。"
+	],
+	tasks: [{
+		uid: "753dfa21",
+		type: "checkmark",
+		title: "BiblioCraft(收藏馆)"
+	}]
+}

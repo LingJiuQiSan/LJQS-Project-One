@@ -1,0 +1,16 @@
+{
+	icon: "rf-capability-adapter:aecapabilityadapter_part",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1950.html",
+		"",
+		"让ae2和压缩空间联动。"
+	],
+	tasks: [{
+		uid: "af20dcb4",
+		type: "checkmark",
+		title: "ME Capability Adapter(ME功能适配器)"
+	}]
+}

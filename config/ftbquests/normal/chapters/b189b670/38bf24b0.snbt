@@ -1,0 +1,14 @@
+{
+	icon: "immersiveengineering:wooden_device1",
+	x: 0.0d,
+	y: 1.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/463.html"
+	],
+	tasks: [{
+		uid: "7836681e",
+		type: "checkmark",
+		title: "Immersive Engineering(沉浸工程)"
+	}]
+}

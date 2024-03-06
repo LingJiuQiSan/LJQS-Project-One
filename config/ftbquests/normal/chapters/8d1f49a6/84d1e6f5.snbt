@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/4582.html"
+	],
+	tasks: [{
+		uid: "4fd20a16",
+		type: "checkmark",
+		title: "Ore Stages(矿石阶段)"
+	}]
+}

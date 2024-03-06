@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	shape: "diamond",
+	dependencies: [
+		"b3843e0f"
+	],
+	tasks: [{
+		uid: "7bfe4cb9",
+		type: "checkmark",
+		title: "钻石形为实用模组并有可能在主线中需要。"
+	}]
+}

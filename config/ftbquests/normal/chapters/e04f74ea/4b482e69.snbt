@@ -1,0 +1,16 @@
+{
+	icon: "astraladditions:block_marble_wall",
+	x: 4.5d,
+	y: 6.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/8269.html",
+		"",
+		"星辉魔法的拓展。"
+	],
+	tasks: [{
+		uid: "3baaaf04",
+		type: "checkmark",
+		title: "Astral Additions"
+	}]
+}

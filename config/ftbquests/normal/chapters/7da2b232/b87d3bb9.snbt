@@ -1,0 +1,14 @@
+{
+	icon: "mechanics:alloy_furnace",
+	x: 3.0d,
+	y: 1.5d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/mechanics-crafting-ways"
+	],
+	tasks: [{
+		uid: "b2c45ae2",
+		type: "checkmark",
+		title: "Mechanics - Crafting Ways"
+	}]
+}

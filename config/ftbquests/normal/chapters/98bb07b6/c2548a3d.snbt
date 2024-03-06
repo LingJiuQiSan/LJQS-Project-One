@@ -1,0 +1,14 @@
+{
+	icon: "packagedthaumic:infusion_crafter",
+	x: 7.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/12009.html"
+	],
+	tasks: [{
+		uid: "b5163ba9",
+		type: "checkmark",
+		title: "PackagedThaumic(封包神秘)"
+	}]
+}

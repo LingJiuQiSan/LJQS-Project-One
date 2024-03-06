@@ -1,0 +1,13 @@
+name = "Aetherworks"
+filename = "AetherWorks-1.12.2-1.0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b90d501e93ac380aef7ef4414eda0a0c0284f48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2565793
+project-id = 293905

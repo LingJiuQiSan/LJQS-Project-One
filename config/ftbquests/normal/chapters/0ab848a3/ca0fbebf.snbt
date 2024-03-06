@@ -1,0 +1,14 @@
+{
+	icon: "solarflux:solar_panel_infinity",
+	x: 0.0d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/787.html"
+	],
+	tasks: [{
+		uid: "4e2f41da",
+		type: "checkmark",
+		title: "Solar Flux Reborn(日光通量：重制版)"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/423.html"
+	],
+	tasks: [{
+		uid: "98f4f68b",
+		type: "checkmark",
+		title: "Draconic Evolution(龙之进化/龙之研究)"
+	}]
+}

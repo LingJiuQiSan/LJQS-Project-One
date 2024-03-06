@@ -1,0 +1,14 @@
+{
+	icon: "tinkerskyblock:rations",
+	x: 4.5d,
+	y: 6.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1513.html"
+	],
+	tasks: [{
+		uid: "c7bb7d20",
+		type: "checkmark",
+		title: "Tinkers' Skyblock(匠魂空岛)"
+	}]
+}

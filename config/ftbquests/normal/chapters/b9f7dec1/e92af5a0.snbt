@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/commons0815",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "69a9f6d3",
+		type: "checkmark",
+		title: "Commons0815"
+	}]
+}

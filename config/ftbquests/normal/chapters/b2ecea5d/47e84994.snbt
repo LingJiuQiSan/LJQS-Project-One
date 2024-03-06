@@ -1,0 +1,16 @@
+{
+	icon: "vaultopic:vice",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/vaultopic-early-inventory-management",
+		"",
+		"可惜不支持中文搜索。"
+	],
+	tasks: [{
+		uid: "e965c6f7",
+		type: "checkmark",
+		title: "Vaultopic - Early Inventory Management"
+	}]
+}

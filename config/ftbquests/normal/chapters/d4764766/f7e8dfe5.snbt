@@ -1,0 +1,12 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/840.html"
+	],
+	tasks: [{
+		uid: "2f9a8033",
+		type: "checkmark",
+		title: "Just Enough Characters"
+	}]
+}

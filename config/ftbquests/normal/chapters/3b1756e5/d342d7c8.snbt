@@ -1,0 +1,16 @@
+{
+	icon: "tinkersaddons:modifier_item",
+	x: 10.5d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/tinkers-addons-fork",
+		"",
+		"匠魂拓展"
+	],
+	tasks: [{
+		uid: "436584df",
+		type: "checkmark",
+		title: "Tinkers' Addons(Fork) with Mod Support"
+	}]
+}

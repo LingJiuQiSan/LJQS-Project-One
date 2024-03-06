@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/5104.html",
+		"",
+		"一个优化mod。"
+	],
+	tasks: [{
+		uid: "86010f1d",
+		type: "checkmark",
+		title: "Ksyxis"
+	}]
+}

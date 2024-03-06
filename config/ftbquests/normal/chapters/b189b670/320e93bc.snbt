@@ -1,0 +1,14 @@
+{
+	icon: "integratedtunnels:part_interface_item_item",
+	x: 0.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1450.html"
+	],
+	tasks: [{
+		uid: "baa56839",
+		type: "checkmark",
+		title: "Integrated Tunnels(集成管道)"
+	}]
+}

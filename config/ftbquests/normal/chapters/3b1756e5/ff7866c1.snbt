@@ -1,0 +1,21 @@
+{
+	icon: {
+		id: "thaumictinkerer:share_book",
+		tag: {
+			player: "[none]"
+		}
+	},
+	x: 4.5d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/thaumic-tinkerer-unofficial",
+		"",
+		"神秘工匠"
+	],
+	tasks: [{
+		uid: "97dc4e90",
+		type: "checkmark",
+		title: "Thaumic Tinkerer Unofficial"
+	}]
+}

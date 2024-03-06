@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/568.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "c35355fc",
+		type: "checkmark",
+		title: "Sonar Core(声呐核心)"
+	}]
+}

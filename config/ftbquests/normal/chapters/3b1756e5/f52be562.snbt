@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 9.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/2047.html"
+	],
+	tasks: [{
+		uid: "d645a44b",
+		type: "checkmark",
+		title: "Tree Tweaker"
+	}]
+}

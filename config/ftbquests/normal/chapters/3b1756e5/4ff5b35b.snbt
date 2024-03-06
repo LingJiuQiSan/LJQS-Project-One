@@ -1,0 +1,13 @@
+{
+	icon: "theoneprobe:probenote",
+	x: 10.5d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/9882.html"
+	],
+	tasks: [{
+		uid: "42be1ce2",
+		type: "checkmark",
+		title: "The One Probe Community Edition(检测器-社区版)"
+	}]
+}

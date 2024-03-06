@@ -1,0 +1,13 @@
+name = "Artisan Integrations"
+filename = "artisanintegrations-1.12.2-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24330ec6c893b8915653471f97ec4e15af9166c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3681110
+project-id = 330466

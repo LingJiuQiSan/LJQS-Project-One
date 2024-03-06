@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/12993.html",
+		"",
+		"默认世界设置。"
+	],
+	tasks: [{
+		uid: "40a9d69f",
+		type: "checkmark",
+		title: "Default World Generator without Server Side Prompts"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 4.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/5237.html",
+		"",
+		"在菜单中装备（取消）装备盔甲时播放相应的声音。"
+	],
+	tasks: [{
+		uid: "855a3fe2",
+		type: "checkmark",
+		title: "Armor Sound Tweak(盔甲音效调整)"
+	}]
+}

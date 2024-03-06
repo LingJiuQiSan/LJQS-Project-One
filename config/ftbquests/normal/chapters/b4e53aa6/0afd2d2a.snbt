@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/799.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "db184aff",
+		type: "checkmark",
+		title: "Shadowfacts' Forgelin"
+	}]
+}

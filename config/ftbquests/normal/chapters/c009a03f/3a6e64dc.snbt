@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/9981.html",
+		"",
+		"具体用法请看mcmod。"
+	],
+	tasks: [{
+		uid: "6b35e2a0",
+		type: "checkmark",
+		title: "Graduated Cylinders(刻度量筒)"
+	}]
+}

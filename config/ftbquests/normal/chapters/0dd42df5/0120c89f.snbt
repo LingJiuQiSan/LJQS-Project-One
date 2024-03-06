@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/5769.html",
+		"",
+		"调整psi能机制。"
+	],
+	tasks: [{
+		uid: "9a44b794",
+		type: "checkmark",
+		title: "Zettai Psi"
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 7.5d,
+	y: 6.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/6099.html"
+	],
+	tasks: [{
+		uid: "a22bcb18",
+		type: "checkmark",
+		title: "TinkerStages"
+	}]
+}

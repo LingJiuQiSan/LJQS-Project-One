@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1861.html",
+		"",
+		"目标是帮助将其他模组与 Construct's Armoury 和 Tinker's Construct 集成，为大多数材料提供工具和装甲零件。"
+	],
+	tasks: [{
+		uid: "91ff78b3",
+		type: "checkmark",
+		title: "Armory Expansion(匠魂盔甲扩展)"
+	}]
+}

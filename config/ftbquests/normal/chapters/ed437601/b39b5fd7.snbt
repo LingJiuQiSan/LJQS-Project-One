@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/7796.html"
+	],
+	tasks: [{
+		uid: "a87cb74f",
+		type: "checkmark",
+		title: "HungerTweaker"
+	}]
+}

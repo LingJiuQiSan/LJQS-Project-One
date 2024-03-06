@@ -1,0 +1,77 @@
+{
+	icon: {
+		id: "tconstruct:broadsword",
+		tag: {
+			TinkerData: {
+				Materials: [
+					"infinity_metal",
+					"infinity_metal",
+					"infinity_metal"
+				],
+				Modifiers: []
+			},
+			Stats: {
+				Durability: 1650,
+				HarvestLevel: 93,
+				Attack: 6751.75f,
+				MiningSpeed: 49.95f,
+				AttackSpeedMultiplier: 1.0f,
+				FreeModifiers: 3
+			},
+			StatsOriginal: {
+				Durability: 1650,
+				HarvestLevel: 93,
+				Attack: 6751.75f,
+				MiningSpeed: 49.95f,
+				AttackSpeedMultiplier: 1.0f,
+				FreeModifiers: 3
+			},
+			Special: {
+				Categories: [
+					"tool",
+					"weapon"
+				]
+			},
+			Modifiers: [{
+				identifier: "tconevo.infinitum",
+				color: -11757164,
+				level: 1
+			},
+			{
+				identifier: "tconevo.omnipotence",
+				color: -11757164,
+				level: 1
+			}],
+			Traits: [
+				"tconevo.infinitum",
+				"tconevo.omnipotence"
+			],
+			Unbreakable: 1b
+		},
+		ForgeCaps: {
+			"plustic:fruitsalad_cap": {
+				Items: [],
+				Size: 5
+			},
+			"plustic:": {
+				Items: [],
+				Size: 1
+			},
+			"plustic:musicofthespheres_cap": {
+				Items: [],
+				Size: 1
+			}
+		}
+	},
+	x: 6.0d,
+	y: 0.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/683.html"
+	],
+	tasks: [{
+		uid: "52eadfa8",
+		type: "checkmark",
+		title: "Tinkers' Construct(匠魂2)"
+	}]
+}

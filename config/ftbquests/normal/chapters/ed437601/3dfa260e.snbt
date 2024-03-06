@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/12004.html",
+		"",
+		"潘马斯的魔改Mod。"
+	],
+	tasks: [{
+		uid: "923d1d19",
+		type: "checkmark",
+		title: "HarvestCraft Tweaker"
+	}]
+}

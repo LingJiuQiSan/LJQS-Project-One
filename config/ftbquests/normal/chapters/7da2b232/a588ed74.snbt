@@ -1,0 +1,16 @@
+{
+	icon: "multiblocked:blueprint",
+	x: 6.0d,
+	y: 6.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/6191.html",
+		"",
+		"可以创建单方块机器。"
+	],
+	tasks: [{
+		uid: "5d3abe3f",
+		type: "checkmark",
+		title: "Multiblocked"
+	}]
+}

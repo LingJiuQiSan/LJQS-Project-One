@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/12261.html",
+		"",
+		"增强的ME破坏面板。"
+	],
+	tasks: [{
+		uid: "3c3fbf63",
+		type: "checkmark",
+		title: "Enhanced Annihilation Planes"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/10728.html",
+		"",
+		"一个优化mod。"
+	],
+	tasks: [{
+		uid: "d80748a6",
+		type: "checkmark",
+		title: "VintageFix"
+	}]
+}

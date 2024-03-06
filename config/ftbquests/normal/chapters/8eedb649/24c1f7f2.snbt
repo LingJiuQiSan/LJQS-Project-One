@@ -1,0 +1,23 @@
+{
+	icon: {
+		id: "buildinggadgets:buildingtool",
+		tag: {
+			blockstate: {
+				Name: "minecraft:air"
+			}
+		}
+	},
+	x: 6.0d,
+	y: 7.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1379.html",
+		"",
+		"很好用的工具！"
+	],
+	tasks: [{
+		uid: "d8e4e510",
+		type: "checkmark",
+		title: "Building Gadgets(建筑小帮手)"
+	}]
+}

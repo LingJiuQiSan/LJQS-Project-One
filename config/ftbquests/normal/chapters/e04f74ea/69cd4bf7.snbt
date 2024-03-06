@@ -1,0 +1,14 @@
+{
+	icon: "aether_legacy:ambrosium_torch",
+	x: 3.0d,
+	y: 1.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/94.html"
+	],
+	tasks: [{
+		uid: "b061fc45",
+		type: "checkmark",
+		title: "The Aether(天境)"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	icon: "tombstone:decorative_grave_simple",
+	x: 1.5d,
+	y: 7.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1985.html"
+	],
+	tasks: [{
+		uid: "6f9cabdb",
+		type: "checkmark",
+		title: "Corail Tombstone(Corail的墓碑)"
+	}]
+}

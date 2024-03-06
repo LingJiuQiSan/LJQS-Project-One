@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/3129.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "e18d2025",
+		type: "checkmark",
+		title: "BNBGamingLib"
+	}]
+}

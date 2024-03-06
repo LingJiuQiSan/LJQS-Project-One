@@ -1,0 +1,16 @@
+{
+	icon: "lost_aether:platinum_key",
+	x: 3.0d,
+	y: 3.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/2481.html",
+		"",
+		"添加了帝王云鲸等。"
+	],
+	tasks: [{
+		uid: "018d15d7",
+		type: "checkmark",
+		title: "Aether: Lost Content Addon(天境: 遗失之物)"
+	}]
+}

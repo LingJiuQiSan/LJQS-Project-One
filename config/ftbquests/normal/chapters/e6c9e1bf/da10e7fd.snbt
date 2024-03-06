@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/filedirector",
+		"",
+		"File Director 旨在成为 modpack 创建者的一款无忧工具，简化更新流程以获得更无缝的体验。",
+		"",
+		"从curseforge上下载下来的版本需要使用它来下载两个mod。"
+	],
+	tasks: [{
+		uid: "51b7fd53",
+		type: "checkmark",
+		title: "File Director"
+	}]
+}

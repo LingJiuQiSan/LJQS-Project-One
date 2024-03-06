@@ -1,0 +1,14 @@
+{
+	icon: "forestry:apatite",
+	x: 0.0d,
+	y: 3.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/5.html"
+	],
+	tasks: [{
+		uid: "23b74c5e",
+		type: "checkmark",
+		title: "Forestry(林业)"
+	}]
+}

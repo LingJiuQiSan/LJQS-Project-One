@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/1530.html",
+		"",
+		"改善进度的视觉效果。"
+	],
+	tasks: [{
+		uid: "c09d3749",
+		type: "checkmark",
+		title: "Better Advancements(更好的进度)"
+	}]
+}

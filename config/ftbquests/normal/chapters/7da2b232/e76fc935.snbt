@@ -1,0 +1,16 @@
+{
+	icon: "modularmachinery:blockcontroller",
+	x: 0.0d,
+	y: 4.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/8902.html",
+		"",
+		"多方块的模块化。"
+	],
+	tasks: [{
+		uid: "f88d7e2c",
+		type: "checkmark",
+		title: "ModularMachinery: Community Edition(模块化机械：社区版)"
+	}]
+}

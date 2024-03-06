@@ -1,0 +1,25 @@
+{
+	icon: {
+		id: "itemfilters:filter",
+		ForgeCaps: {
+			Parent: {
+				id: "bee",
+				data: {
+					id: "minecraft:air",
+					Count: 2,
+					Damage: 0s
+				}
+			}
+		}
+	},
+	x: 4.5d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/1605.html"
+	],
+	tasks: [{
+		uid: "6f5586d1",
+		type: "checkmark",
+		title: "Item Filters(物品过滤器)"
+	}]
+}

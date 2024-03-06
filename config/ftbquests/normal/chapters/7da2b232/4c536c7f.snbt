@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 6.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1233.html",
+		"",
+		"神秘农业拓展和沉浸工程的附属。"
+	],
+	tasks: [{
+		uid: "ea61e95a",
+		type: "checkmark",
+		title: "MystAgrad Cloche Compat"
+	}]
+}

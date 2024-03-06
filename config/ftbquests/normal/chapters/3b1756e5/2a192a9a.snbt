@@ -1,0 +1,14 @@
+{
+	icon: "torchmaster:mega_torch",
+	x: 7.5d,
+	y: 7.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/779.html"
+	],
+	tasks: [{
+		uid: "55739209",
+		type: "checkmark",
+		title: "Torchmaster(火炬大师)"
+	}]
+}

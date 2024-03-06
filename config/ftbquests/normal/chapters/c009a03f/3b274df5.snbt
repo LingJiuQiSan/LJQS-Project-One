@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"在一个世界改的指令会应用到全部世界。"
+	],
+	tasks: [{
+		uid: "0c69f2dd",
+		type: "checkmark",
+		title: "Global GameRules(全局游戏规则)"
+	}]
+}

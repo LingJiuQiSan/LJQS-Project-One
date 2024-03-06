@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/842.html",
+		"",
+		"向游戏增加了RF的概念。"
+	],
+	tasks: [{
+		uid: "45c4e52d",
+		type: "checkmark",
+		title: "Redstone Flux"
+	}]
+}

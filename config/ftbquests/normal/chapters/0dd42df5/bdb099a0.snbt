@@ -1,0 +1,14 @@
+{
+	icon: "zensummoning:altar",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/2851.html"
+	],
+	tasks: [{
+		uid: "651dbad6",
+		type: "checkmark",
+		title: "Zen Summoning"
+	}]
+}

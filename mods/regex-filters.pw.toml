@@ -1,0 +1,13 @@
+name = "Regex Filters"
+filename = "regexfilters-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6184b8fc11c6f59761d9ab4e805e9f9b07311317"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3059793
+project-id = 408367

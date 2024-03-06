@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/zencloche",
+		"",
+		"自定义园艺玻璃罩。"
+	],
+	tasks: [{
+		uid: "5fed6ba7",
+		type: "checkmark",
+		title: "ZenCloche"
+	}]
+}

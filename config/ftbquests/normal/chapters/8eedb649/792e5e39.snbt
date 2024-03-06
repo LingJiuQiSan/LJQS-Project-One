@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 7.5d,
+	text: [
+		"https://www.mcmod.cn/class/599.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "67fabdf4",
+		type: "checkmark",
+		title: "Brandon's Core"
+	}]
+}

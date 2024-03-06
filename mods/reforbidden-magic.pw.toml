@@ -1,0 +1,13 @@
+name = "ReForbidden Magic"
+filename = "ReForbidden Magic-1.12.2-v0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8629b38e1a56a0d201ce630447f4c3debaebdbe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5088905
+project-id = 709804

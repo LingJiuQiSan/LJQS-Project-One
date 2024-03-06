@@ -1,0 +1,12 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/storage-drawers-unlimited-fixed"
+	],
+	tasks: [{
+		uid: "9062bf02",
+		type: "checkmark",
+		title: "Storage Drawers Unlimited Fixed"
+	}]
+}

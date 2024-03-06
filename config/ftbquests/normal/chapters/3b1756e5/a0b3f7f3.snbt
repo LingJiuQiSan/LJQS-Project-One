@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/thaumic-fixes",
+		"",
+		"尝试修复一些神秘时代错误的小模组。 "
+	],
+	tasks: [{
+		uid: "49b87334",
+		type: "checkmark",
+		title: "Thaumic Fixes"
+	}]
+}

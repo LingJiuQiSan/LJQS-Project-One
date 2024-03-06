@@ -1,0 +1,12 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/2723.html"
+	],
+	tasks: [{
+		uid: "0ff82c1c",
+		type: "checkmark",
+		title: "Pretty Beaches"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/6789.html",
+		"",
+		"比官方版支持更多模组。"
+	],
+	tasks: [{
+		uid: "b3354124",
+		type: "checkmark",
+		title: "Crafting Tweaks Unofficial"
+	}]
+}

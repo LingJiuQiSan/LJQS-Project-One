@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/better-line-break",
+		"",
+		"更好的换行功能。"
+	],
+	tasks: [{
+		uid: "e8a8e2e4",
+		type: "checkmark",
+		title: "Better Line Break"
+	}]
+}

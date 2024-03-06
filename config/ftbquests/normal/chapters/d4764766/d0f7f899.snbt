@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/6172.html",
+		"",
+		"添加了浏览历史等功能。"
+	],
+	tasks: [{
+		uid: "06cccfaa",
+		type: "checkmark",
+		title: "JEI Utilities(JEI实用设备)"
+	}]
+}

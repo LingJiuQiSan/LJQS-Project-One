@@ -1,0 +1,14 @@
+{
+	icon: "rpsideas:cad_assembly_mana_blaster",
+	x: 4.5d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1453.html"
+	],
+	tasks: [{
+		uid: "3a5e1444",
+		type: "checkmark",
+		title: "Random PSIdeas(Psi随想)"
+	}]
+}

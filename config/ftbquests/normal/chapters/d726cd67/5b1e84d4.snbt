@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/4416.html",
+		"",
+		"魔改更多模组联动。"
+	],
+	tasks: [{
+		uid: "0535ae2b",
+		type: "checkmark",
+		title: "RandomTweaker"
+	}]
+}

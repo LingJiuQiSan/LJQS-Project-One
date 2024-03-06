@@ -1,0 +1,13 @@
+name = "VillagerTradingBan"
+filename = "VillagerTradingBan-2.0.0.6-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "875b2192e4897267d524202805d2dbb1b1877ff7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2571285
+project-id = 244930

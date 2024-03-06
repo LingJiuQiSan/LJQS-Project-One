@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/627.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "fd1ee162",
+		type: "checkmark",
+		title: "CB Multipart"
+	}]
+}

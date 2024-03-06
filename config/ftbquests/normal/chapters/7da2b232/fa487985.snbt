@@ -1,0 +1,16 @@
+{
+	icon: "mysticalagradditions:insanium",
+	x: 1.5d,
+	y: 7.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/1222.html",
+		"",
+		"添加究极精华。"
+	],
+	tasks: [{
+		uid: "8ffec77a",
+		type: "checkmark",
+		title: "Mystical Agradditions(神秘农业扩展)"
+	}]
+}

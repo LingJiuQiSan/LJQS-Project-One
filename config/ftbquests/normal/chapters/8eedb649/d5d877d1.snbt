@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/3157.html",
+		"",
+		"看见没，名字下面那串英文字母，就是这个模组弄出来的。"
+	],
+	tasks: [{
+		uid: "bf0c69a7",
+		type: "checkmark",
+		title: "BilingualName(物品名称双语显示)"
+	}]
+}

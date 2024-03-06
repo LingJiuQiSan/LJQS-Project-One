@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 7.5d,
+	text: [
+		"https://www.mcmod.cn/class/1207.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "a1d532fb",
+		type: "checkmark",
+		title: "Cucumber Library"
+	}]
+}

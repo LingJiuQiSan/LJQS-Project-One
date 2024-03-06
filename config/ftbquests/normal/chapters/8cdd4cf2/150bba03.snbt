@@ -1,0 +1,15 @@
+{
+	icon: "environmentalmaterials:alabaster_bricks",
+	x: 6.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/7079.html",
+		"",
+		"环境科技的装饰附属。"
+	],
+	tasks: [{
+		uid: "928648d1",
+		type: "checkmark",
+		title: "Environmental Materials"
+	}]
+}

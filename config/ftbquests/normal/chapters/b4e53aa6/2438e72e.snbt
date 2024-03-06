@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/forked-proxy",
+		"",
+		"ForkedProxy 是Integrated Dynamics的插件模组。它允许您将零件的目标重定向到另一个位置。"
+	],
+	tasks: [{
+		uid: "93e242ab",
+		type: "checkmark",
+		title: "Forked Proxy"
+	}]
+}

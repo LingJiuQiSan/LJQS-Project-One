@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/1360.html"
+	],
+	tasks: [{
+		uid: "516b2f7c",
+		type: "checkmark",
+		title: "Game Stages(游戏阶段)"
+	}]
+}

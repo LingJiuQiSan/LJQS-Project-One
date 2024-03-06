@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/11312.html",
+		"",
+		"对Lazy ae2的修复和改善。"
+	],
+	tasks: [{
+		uid: "f7a34b23",
+		type: "checkmark",
+		title: "Lazy AE2 Patch(懒人AE2补丁)"
+	}]
+}

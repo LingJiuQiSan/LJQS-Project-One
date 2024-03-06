@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/3848.html",
+		"",
+		"一个优化mod。"
+	],
+	tasks: [{
+		uid: "150e7fd2",
+		type: "checkmark",
+		title: "CensoredASM"
+	}]
+}

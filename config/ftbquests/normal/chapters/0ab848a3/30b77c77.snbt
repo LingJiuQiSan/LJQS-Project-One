@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/1654.html",
+		"",
+		"集成动力挤压机的补丁。"
+	],
+	tasks: [{
+		uid: "3a2ea31d",
+		type: "checkmark",
+		title: "ID Squeezer Tweak"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/just-enough-pattern-banners",
+		"",
+		"让你能查看旗帜如何制作。"
+	],
+	tasks: [{
+		uid: "d36ebdff",
+		type: "checkmark",
+		title: "Just Enough Pattern Banners"
+	}]
+}

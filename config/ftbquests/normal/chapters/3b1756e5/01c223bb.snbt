@@ -1,0 +1,13 @@
+{
+	x: 10.5d,
+	y: 7.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1123.html"
+	],
+	tasks: [{
+		uid: "40828941",
+		type: "checkmark",
+		title: "Tree Growing Simulator(跳舞树成长)"
+	}]
+}

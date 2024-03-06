@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/7756.html",
+		"",
+		"退出前确认。"
+	],
+	tasks: [{
+		uid: "410cfaa0",
+		type: "checkmark",
+		title: "Quit"
+	}]
+}

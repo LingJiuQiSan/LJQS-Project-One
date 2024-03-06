@@ -1,0 +1,16 @@
+{
+	icon: "fluxnetworks:flux",
+	x: 6.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/803.html",
+		"",
+		"无线传电。"
+	],
+	tasks: [{
+		uid: "53e06eed",
+		type: "checkmark",
+		title: "Flux Networks(通量网络)"
+	}]
+}

@@ -1,0 +1,13 @@
+name = "Artisan Automation"
+filename = "artisanautomation-1.12.2-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70b4510a0b25971eade9ed537a256f833d47772e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2994098
+project-id = 373329

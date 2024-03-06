@@ -1,0 +1,14 @@
+{
+	icon: "rftoolscontrol:card_base",
+	x: 0.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/818.html"
+	],
+	tasks: [{
+		uid: "fdc23a13",
+		type: "checkmark",
+		title: "RFTools Control(RF工具：控制)"
+	}]
+}

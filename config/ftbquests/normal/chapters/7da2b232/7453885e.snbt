@@ -1,0 +1,15 @@
+{
+	icon: "moreplates:infinity_gear",
+	x: 7.5d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/1358.html",
+		"",
+		"添加了各种板，齿轮和杆。"
+	],
+	tasks: [{
+		uid: "e8f93ef3",
+		type: "checkmark",
+		title: "More Plates(更多金属板)"
+	}]
+}

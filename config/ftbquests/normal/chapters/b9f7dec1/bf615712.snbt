@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1081.html",
+		"",
+		"允许你抱起东西。"
+	],
+	tasks: [{
+		uid: "a60371a8",
+		type: "checkmark",
+		title: "Carry On(搬运)"
+	}]
+}

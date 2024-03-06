@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	shape: "gear",
+	dependencies: [
+		"b3843e0f"
+	],
+	tasks: [{
+		uid: "3a0aee59",
+		type: "checkmark",
+		title: "齿轮形代表魔改模组，是作者用的。"
+	}]
+}

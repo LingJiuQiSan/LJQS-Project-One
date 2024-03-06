@@ -1,0 +1,14 @@
+{
+	icon: "mekanism:machineblock 1 8",
+	x: 4.5d,
+	y: 1.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/8934.html"
+	],
+	tasks: [{
+		uid: "b08cf78a",
+		type: "checkmark",
+		title: "Mekanism-CE-Unofficial(通用机械社区版：非官方)"
+	}]
+}

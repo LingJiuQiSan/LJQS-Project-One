@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 7.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/7834.html",
+		"",
+		"神秘6附属魔改模组，允许/禁止单个群系生成灵气。"
+	],
+	tasks: [{
+		uid: "b24a747e",
+		type: "checkmark",
+		title: "AuraControl"
+	}]
+}

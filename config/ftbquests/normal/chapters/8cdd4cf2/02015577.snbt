@@ -1,0 +1,16 @@
+{
+	icon: "enderstorage:ender_storage",
+	x: 3.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/10228.html",
+		"",
+		"添加了对通用机械的气体和植物魔法的魔力的支持。"
+	],
+	tasks: [{
+		uid: "159e9157",
+		type: "checkmark",
+		title: "Ender Storage continuation（末影存储：延续版）"
+	}]
+}

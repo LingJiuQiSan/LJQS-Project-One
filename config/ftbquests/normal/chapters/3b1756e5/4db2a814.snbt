@@ -1,0 +1,14 @@
+{
+	icon: "tcomplement:high_oven_controller",
+	x: 1.5d,
+	y: 6.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/1254.html"
+	],
+	tasks: [{
+		uid: "7e4ba8d6",
+		type: "checkmark",
+		title: "Tinkers' Complement(匠魂补充)"
+	}]
+}

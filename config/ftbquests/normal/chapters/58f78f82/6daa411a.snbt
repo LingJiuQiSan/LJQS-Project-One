@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/2304.html"
+	],
+	tasks: [{
+		uid: "844a82fa",
+		type: "checkmark",
+		title: "LootTweaker"
+	}]
+}

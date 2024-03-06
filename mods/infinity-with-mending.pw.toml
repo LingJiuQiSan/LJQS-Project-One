@@ -1,0 +1,13 @@
+name = "Infinity With Mending"
+filename = "infwithmend-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a159b80386ffd1be72a81843c9b1575cbf59f2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3956573
+project-id = 665909

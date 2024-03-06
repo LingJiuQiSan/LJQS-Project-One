@@ -1,0 +1,13 @@
+name = "MemoryTester"
+filename = "MemoryTester-0.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f37067815ab2be1d9d0c3b443c5dc403ed67d4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2683370
+project-id = 295736

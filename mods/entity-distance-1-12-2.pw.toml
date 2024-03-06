@@ -1,0 +1,13 @@
+name = "Entity Distance"
+filename = "entitydistance-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56f56360182f8dc3d6cb6df23ba3b1d3780081e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4932861
+project-id = 917379

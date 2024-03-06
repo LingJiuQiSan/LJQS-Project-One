@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/3048.html",
+		"",
+		"Shift + Z来开关它。"
+	],
+	tasks: [{
+		uid: "e6e593c7",
+		type: "checkmark",
+		title: "ItemZoom(物品缩放)"
+	}]
+}

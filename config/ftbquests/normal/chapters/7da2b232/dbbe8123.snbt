@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	text: [
+		"https://www.mcmod.cn/class/684.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "134048b8",
+		type: "checkmark",
+		title: "McJtyLib"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/13754.html",
+		"",
+		"一个简单的缩放模组，默认为Z。"
+	],
+	tasks: [{
+		uid: "4b20edf3",
+		type: "checkmark",
+		title: "Zume"
+	}]
+}

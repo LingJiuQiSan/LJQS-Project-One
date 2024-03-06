@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/8860.html"
+	],
+	tasks: [{
+		uid: "3efa587e",
+		type: "checkmark",
+		title: "ManaTweaks"
+	}]
+}

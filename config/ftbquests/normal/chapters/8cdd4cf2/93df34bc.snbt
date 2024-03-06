@@ -1,0 +1,14 @@
+{
+	icon: "extrautils2:itemcreativebuilderswand",
+	x: 0.0d,
+	y: 6.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/616.html"
+	],
+	tasks: [{
+		uid: "cffd82dd",
+		type: "checkmark",
+		title: "Extra Utilities(更多实用设备2)"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	icon: "forbiddenmagicre:diabolist_fork",
+	x: 6.0d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/reforbidden-magic",
+		"",
+		"该模组带来了 SpitefulFox 的 mc1.7.10 中的 ForbiddenMagic 和 mc1.8.9 中的 SchoolsofMagic 中的一些物品。"
+	],
+	tasks: [{
+		uid: "d6afffde",
+		type: "checkmark",
+		title: "ReForbidden Magic"
+	}]
+}

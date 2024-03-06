@@ -1,0 +1,13 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/immersive-engineering-tweaks"
+	],
+	tasks: [{
+		uid: "c857bdb6",
+		type: "checkmark",
+		title: "Immersive Engineering Tweaks"
+	}]
+}

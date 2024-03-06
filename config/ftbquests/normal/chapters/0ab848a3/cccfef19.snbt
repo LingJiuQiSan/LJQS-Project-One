@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 6.0d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/super-sound-muffler-revived",
+		"",
+		"高级消音器。"
+	],
+	tasks: [{
+		uid: "20d2de27",
+		type: "checkmark",
+		title: "Super Sound Muffler: Revived"
+	}]
+}

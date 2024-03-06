@@ -1,0 +1,14 @@
+{
+	icon: "researchtable:table",
+	x: 3.0d,
+	y: 3.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/3304.html"
+	],
+	tasks: [{
+		uid: "a604762a",
+		type: "checkmark",
+		title: "Research Table(研究台)"
+	}]
+}

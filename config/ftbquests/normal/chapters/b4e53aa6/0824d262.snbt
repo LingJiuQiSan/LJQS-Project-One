@@ -1,0 +1,16 @@
+{
+	icon: "filcabref:filing_cabinet 1 1",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/3706.html",
+		"",
+		"添加了文档柜。"
+	],
+	tasks: [{
+		uid: "e428366b",
+		type: "checkmark",
+		title: "Filing Cabinets Refurbished"
+	}]
+}

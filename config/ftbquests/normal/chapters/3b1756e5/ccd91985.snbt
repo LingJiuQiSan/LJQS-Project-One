@@ -1,0 +1,31 @@
+{
+	icon: {
+		id: "thermalexpansion:machine",
+		Damage: 3s,
+		tag: {
+			Facing: 3b,
+			SideCache: [B;
+				3b,
+				1b,
+				2b,
+				2b,
+				2b,
+				2b
+			],
+			RSControl: 0b,
+			Energy: 0,
+			Level: 0b
+		}
+	},
+	x: 3.0d,
+	y: 4.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/634.html"
+	],
+	tasks: [{
+		uid: "f1841e6a",
+		type: "checkmark",
+		title: "Thermal Expansion(热力膨胀)"
+	}]
+}

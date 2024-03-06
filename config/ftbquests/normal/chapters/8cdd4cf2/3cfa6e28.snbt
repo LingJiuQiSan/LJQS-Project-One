@@ -1,0 +1,16 @@
+{
+	icon: "etlunar:lunar_cont_6",
+	x: 3.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/815.html",
+		"",
+		"添加了多方块结构的月光发电机。"
+	],
+	tasks: [{
+		uid: "d52d0361",
+		type: "checkmark",
+		title: "Environmental Lunar Tech(ET：月光发电)"
+	}]
+}

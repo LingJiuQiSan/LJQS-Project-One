@@ -1,0 +1,35 @@
+{
+	icon: {
+		id: "draconicadditions:chaotic_staff_of_power",
+		tag: {
+			DEUpgrades: {
+				rfCap: 4b,
+				digSpeed: 4b,
+				digAOE: 4b,
+				attackDmg: 4b,
+				attackAOE: 4b
+			},
+			Energy: 1920000000,
+			isStable: 1b
+		},
+		ForgeCaps: {
+			Parent: {
+				Items: [],
+				Size: 36
+			}
+		}
+	},
+	x: 0.0d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1596.html",
+		"",
+		"添加了混沌龙套装等物品。"
+	],
+	tasks: [{
+		uid: "b0523a8a",
+		type: "checkmark",
+		title: "Draconic Additions(龙之进化拓展)"
+	}]
+}

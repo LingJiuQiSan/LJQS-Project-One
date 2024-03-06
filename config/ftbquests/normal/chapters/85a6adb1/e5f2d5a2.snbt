@@ -1,0 +1,16 @@
+{
+	icon: "darkutils:trap_move",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/802.html",
+		"",
+		"你会用到向量板的，对吧？"
+	],
+	tasks: [{
+		uid: "9684996f",
+		type: "checkmark",
+		title: "Dark Utilities"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1567.html",
+		"",
+		"此 mods 增加了从 OpenComputers 程序在 ActualAdditions 机器上获取和设置指定值的能力。"
+	],
+	tasks: [{
+		uid: "0fc2929f",
+		type: "checkmark",
+		title: "ActuallyComputers(实用电脑)"
+	}]
+}

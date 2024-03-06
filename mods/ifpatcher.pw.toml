@@ -1,0 +1,13 @@
+name = "IFPatcher"
+filename = "IFPatcher-2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6e915391fd9ff544eaa8ac4d9af95b9c1a2453a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4140235
+project-id = 456083

@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/friendly-chests",
+		"",
+		"允许像高版本一样放箱子。"
+	],
+	tasks: [{
+		uid: "4a5eeb67",
+		type: "checkmark",
+		title: "Friendly Chests"
+	}]
+}

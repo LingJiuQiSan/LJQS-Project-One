@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/7835.html"
+	],
+	tasks: [{
+		uid: "529e0d06",
+		type: "checkmark",
+		title: "ContentTweaker Registry Orderer"
+	}]
+}

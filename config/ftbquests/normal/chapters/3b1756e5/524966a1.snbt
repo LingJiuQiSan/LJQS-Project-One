@@ -1,0 +1,13 @@
+{
+	x: 10.5d,
+	y: 6.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/3666.html"
+	],
+	tasks: [{
+		uid: "11e55b08",
+		type: "checkmark",
+		title: "Tips(提示)"
+	}]
+}

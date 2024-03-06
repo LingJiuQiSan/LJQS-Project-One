@@ -1,0 +1,13 @@
+name = "Warp Apocalypse"
+filename = "WarpTheory1.12.2-0.0.3.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f41ea057d5023ba75e17154e2388ded1c7627290"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4831510
+project-id = 817000

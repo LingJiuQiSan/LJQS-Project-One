@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/4072.html",
+		"",
+		"将含水方块带到1.12"
+	],
+	tasks: [{
+		uid: "1dfa221f",
+		type: "checkmark",
+		title: "Fluidlogged API"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/1815.html",
+		"",
+		"在一段时间未操作后自动降低FPS。"
+	],
+	tasks: [{
+		uid: "8e4cf891",
+		type: "checkmark",
+		title: "FPS Reducer(FPS减速器)"
+	}]
+}

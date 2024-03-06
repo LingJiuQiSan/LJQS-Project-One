@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/draconic-alchemy",
+		"",
+		"允许自定义爆炸。"
+	],
+	tasks: [{
+		uid: "2319100d",
+		type: "checkmark",
+		title: "Draconic Alchemy"
+	}]
+}

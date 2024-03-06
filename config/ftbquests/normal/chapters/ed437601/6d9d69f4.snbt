@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/6980.html",
+		"",
+		"让你可以拼音搜搜索。"
+	],
+	tasks: [{
+		uid: "43deb0cf",
+		type: "checkmark",
+		title: "Had Enough Characters"
+	}]
+}

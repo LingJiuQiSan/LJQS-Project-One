@@ -1,0 +1,14 @@
+{
+	icon: "regexfilters:regexfilter",
+	x: 0.0d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/3051.html"
+	],
+	tasks: [{
+		uid: "8ca423d3",
+		type: "checkmark",
+		title: "Regex Filters(正则表达式过滤器)"
+	}]
+}

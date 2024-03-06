@@ -1,0 +1,16 @@
+{
+	icon: "alternatingflux:connector 1 1",
+	x: 1.5d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2072.html",
+		"",
+		"沉浸工程的一个附属，添加了AF线等物品。"
+	],
+	tasks: [{
+		uid: "5425f518",
+		type: "checkmark",
+		title: "Alternating Flux(交变磁通)"
+	}]
+}

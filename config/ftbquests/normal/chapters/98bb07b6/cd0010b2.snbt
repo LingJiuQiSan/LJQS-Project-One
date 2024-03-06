@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/persistency",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "9526a505",
+		type: "checkmark",
+		title: "Persistency"
+	}]
+}

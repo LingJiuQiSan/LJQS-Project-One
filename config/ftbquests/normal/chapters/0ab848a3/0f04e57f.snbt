@@ -1,0 +1,16 @@
+{
+	icon: "speedyhoppers:speedyhopper_mk3",
+	x: 1.5d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/3412.html",
+		"",
+		"添加了快速的漏斗。"
+	],
+	tasks: [{
+		uid: "cda6d137",
+		type: "checkmark",
+		title: "Speedy Hoppers(极速漏斗)"
+	}]
+}

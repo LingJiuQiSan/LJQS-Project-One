@@ -1,0 +1,16 @@
+{
+	icon: "ceramics:clay_bucket",
+	x: 6.0d,
+	y: 0.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/5252.html",
+		"",
+		"添加了粘土桶。"
+	],
+	tasks: [{
+		uid: "803e5703",
+		type: "checkmark",
+		title: "Ceramic Bucket(陶瓷桶)"
+	}]
+}

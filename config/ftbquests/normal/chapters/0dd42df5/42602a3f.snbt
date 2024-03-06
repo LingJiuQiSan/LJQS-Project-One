@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/8801.html",
+		"",
+		"依旧是用于修改匠魂。"
+	],
+	tasks: [{
+		uid: "fb6ee69d",
+		type: "checkmark",
+		title: "ZenTraits"
+	}]
+}

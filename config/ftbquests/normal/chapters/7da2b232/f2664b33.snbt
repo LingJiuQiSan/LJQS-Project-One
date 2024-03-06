@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/7951.html",
+		"",
+		"允许mek机器安装64个升级。"
+	],
+	tasks: [{
+		uid: "d35c9b20",
+		type: "checkmark",
+		title: "MekanismTweaks"
+	}]
+}

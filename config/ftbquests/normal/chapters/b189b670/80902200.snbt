@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/1058.html",
+		"",
+		"左上角那串描述就是这个Mod。"
+	],
+	tasks: [{
+		uid: "41955c67",
+		type: "checkmark",
+		title: "InGame Info XML(游戏信息显示XML版)"
+	}]
+}

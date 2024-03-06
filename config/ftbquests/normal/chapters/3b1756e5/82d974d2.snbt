@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 9.0d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/tweaked-petroleum-gas-addon",
+		"",
+		"该模组添加了使用 IP 抽油机泵送机械气体的选项"
+	],
+	tasks: [{
+		uid: "c4d1be53",
+		type: "checkmark",
+		title: "Tweaked Petroleum: Gas Addon"
+	}]
+}

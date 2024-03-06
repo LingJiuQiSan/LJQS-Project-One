@@ -1,0 +1,19 @@
+{
+	icon: {
+		id: "storagedrawers:basicdrawers",
+		tag: {
+			material: "oak"
+		}
+	},
+	x: 4.5d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/408.html"
+	],
+	tasks: [{
+		uid: "8897c608",
+		type: "checkmark",
+		title: "Storage Drawers(储物抽屉)"
+	}]
+}

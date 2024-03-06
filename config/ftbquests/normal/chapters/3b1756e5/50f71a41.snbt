@@ -1,0 +1,16 @@
+{
+	icon: "thaumcomp:sealconnector",
+	x: 4.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/7358.html",
+		"",
+		"让开放式电脑访问神秘时代6的方块和物品。"
+	],
+	tasks: [{
+		uid: "2b3d7212",
+		type: "checkmark",
+		title: "Thaumic Computers"
+	}]
+}

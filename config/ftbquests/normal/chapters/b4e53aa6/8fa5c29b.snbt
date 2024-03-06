@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	text: [
+		"https://www.mcmod.cn/class/2127.html",
+		"",
+		"定时自动备份。"
+	],
+	tasks: [{
+		uid: "2ce2e5c5",
+		type: "checkmark",
+		title: "FTB Backups(FTB备份)"
+	}]
+}

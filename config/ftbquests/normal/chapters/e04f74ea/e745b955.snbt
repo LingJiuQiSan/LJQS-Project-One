@@ -1,0 +1,14 @@
+{
+	icon: "astralsorcery:blockmarble",
+	x: 7.5d,
+	y: 6.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/639.html"
+	],
+	tasks: [{
+		uid: "b8dc1db0",
+		type: "checkmark",
+		title: "Astral Sorcery(星辉魔法)"
+	}]
+}

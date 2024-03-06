@@ -1,0 +1,88 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 140
+  width = 200
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 241083c8-6fb2-4113-8ad4-352df975ee241709238543878
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 123
+  action = deep_customization_element:title_screen_branding
+  actionid = dfae90ca-9ddf-4731-9948-98f0e90a5eeb1709238543902
+  y = 191
+  height = 60
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 311
+  width = 168
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 0ea8a2ed-5c03-40cd-bc6c-5f4150a9d4021709238543903
+  y = 233
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = cfb2322b-c8a3-4898-b049-b859de19278b1709238543904
+  y = 163
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 103
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = b3c27bb9-6e29-4a1f-86a0-e2142c37d51d1709238543905
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 2d6d1ad3-c9ca-4f74-a33d-2868eea9a7951709238543905
+  y = 0
+  height = 30
+}
+
+customization {
+  identifier = %id=9764%
+  action = hidebutton
+}
+

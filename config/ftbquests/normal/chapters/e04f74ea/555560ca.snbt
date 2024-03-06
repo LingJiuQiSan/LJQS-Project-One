@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/1330.html",
+		"",
+		"当任何实体使用 CraftTweaker 生成时，将任何物品给予该实体。 "
+	],
+	tasks: [{
+		uid: "8f2ada78",
+		type: "checkmark",
+		title: "ArmoreableMobs(怪物装备自定义)"
+	}]
+}

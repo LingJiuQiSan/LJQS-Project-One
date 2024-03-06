@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/pack-crash-info",
+		"",
+		"在崩溃日志中添加一些有关当前整合包的信息。"
+	],
+	tasks: [{
+		uid: "3a6854d1",
+		type: "checkmark",
+		title: "Pack Crash Info"
+	}]
+}

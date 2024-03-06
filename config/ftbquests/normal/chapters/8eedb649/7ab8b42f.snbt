@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/488.html",
+		"",
+		"血魔法拓展，添加了一些物品。"
+	],
+	tasks: [{
+		uid: "ffa9b0f7",
+		type: "checkmark",
+		title: "Blood Arsenal(血液兵工厂)"
+	}]
+}

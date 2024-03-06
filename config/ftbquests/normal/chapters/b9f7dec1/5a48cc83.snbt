@@ -1,0 +1,16 @@
+{
+	icon: "chisel:chisel_iron",
+	x: 3.0d,
+	y: 1.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/387.html",
+		"",
+		"允许你雕刻方块。"
+	],
+	tasks: [{
+		uid: "78b0c7e8",
+		type: "checkmark",
+		title: "Chisel(凿子)"
+	}]
+}

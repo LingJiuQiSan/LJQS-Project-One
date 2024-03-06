@@ -1,0 +1,14 @@
+{
+	icon: "packagedexcrafting:ultimate_crafter",
+	x: 6.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2975.html"
+	],
+	tasks: [{
+		uid: "928bd778",
+		type: "checkmark",
+		title: "PackagedExCrafting(封包合成拓展)"
+	}]
+}

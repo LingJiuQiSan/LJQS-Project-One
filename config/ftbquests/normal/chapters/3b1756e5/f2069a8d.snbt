@@ -1,0 +1,14 @@
+{
+	icon: "thaumicrestoration:item_bucket",
+	x: 1.5d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2330.html"
+	],
+	tasks: [{
+		uid: "a11728fd",
+		type: "checkmark",
+		title: "Thaumic Restoration(神秘复辟)"
+	}]
+}

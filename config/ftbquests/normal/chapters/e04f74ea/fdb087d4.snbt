@@ -1,0 +1,16 @@
+{
+	icon: "aetheriumashenarmor:aetherium_ashen_cloak_chest",
+	x: 4.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/8750.html",
+		"",
+		"该模组为天华之作/余烬添加了一套盔甲。"
+	],
+	tasks: [{
+		uid: "ba386fdd",
+		type: "checkmark",
+		title: "Aetherium Ashen Armor"
+	}]
+}

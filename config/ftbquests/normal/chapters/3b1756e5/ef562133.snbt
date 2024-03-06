@@ -1,0 +1,13 @@
+{
+	x: 9.0d,
+	y: 4.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/2369.html"
+	],
+	tasks: [{
+		uid: "0e5e7184",
+		type: "checkmark",
+		title: "Time Stages(阶段时间)"
+	}]
+}

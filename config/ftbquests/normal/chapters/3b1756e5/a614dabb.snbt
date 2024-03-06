@@ -1,0 +1,14 @@
+{
+	icon: "taiga:vibranium_ingot",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/13541.html"
+	],
+	tasks: [{
+		uid: "5a410d27",
+		type: "checkmark",
+		title: "TAIGA Replant Replant(匠魂合金附加二次重栽版)"
+	}]
+}

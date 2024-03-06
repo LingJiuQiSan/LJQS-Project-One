@@ -1,0 +1,15 @@
+{
+	icon: "snad:snad",
+	x: 6.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/785.html",
+		"",
+		"给予红石信号加快生长。"
+	],
+	tasks: [{
+		uid: "3f9d5300",
+		type: "checkmark",
+		title: "Snad(子沙)"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	icon: "botanicadds:terra_protector",
+	x: 1.5d,
+	y: 7.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1458.html",
+		"",
+		"添加了一些强大的物品等。"
+	],
+	tasks: [{
+		uid: "8af3aafd",
+		type: "checkmark",
+		title: "Botanic Additions(植物学拓展)"
+	}]
+}

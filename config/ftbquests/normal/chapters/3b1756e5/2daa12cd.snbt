@@ -1,0 +1,84 @@
+{
+	icon: {
+		id: "tinkersaether:dart_shooter",
+		tag: {
+			TinkerData: {
+				Materials: [
+					"infinity_metal",
+					"infinity_metal"
+				],
+				Modifiers: []
+			},
+			Stats: {
+				Durability: 1500,
+				HarvestLevel: 93,
+				Attack: 6750.75f,
+				MiningSpeed: 49.95f,
+				AttackSpeedMultiplier: 1.0f,
+				FreeModifiers: 3,
+				DrawSpeed: 6.66f,
+				Range: 1.0f,
+				ProjectileBonusDamage: 333.0f
+			},
+			StatsOriginal: {
+				Durability: 1500,
+				HarvestLevel: 93,
+				Attack: 6750.75f,
+				MiningSpeed: 49.95f,
+				AttackSpeedMultiplier: 1.0f,
+				FreeModifiers: 3,
+				DrawSpeed: 6.66f,
+				Range: 1.0f,
+				ProjectileBonusDamage: 333.0f
+			},
+			Special: {
+				Categories: [
+					"tool",
+					"launcher"
+				]
+			},
+			Modifiers: [{
+				identifier: "tconevo.infinitum",
+				color: -11757164,
+				level: 1
+			},
+			{
+				identifier: "tconevo.omnipotence",
+				color: -11757164,
+				level: 1
+			}],
+			Traits: [
+				"tconevo.infinitum",
+				"tconevo.omnipotence"
+			],
+			Unbreakable: 1b
+		},
+		ForgeCaps: {
+			"plustic:fruitsalad_cap": {
+				Items: [],
+				Size: 5
+			},
+			"plustic:": {
+				Items: [],
+				Size: 1
+			},
+			"plustic:musicofthespheres_cap": {
+				Items: [],
+				Size: 1
+			}
+		}
+	},
+	x: 0.0d,
+	y: 6.0d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/tinkers-aether-dman-edition",
+		"",
+		"天境工匠"
+	],
+	tasks: [{
+		uid: "83d44a06",
+		type: "checkmark",
+		title: "Tinkers' Aether: DMAN Edition"
+	}]
+}

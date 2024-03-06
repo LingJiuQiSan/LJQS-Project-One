@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/1497.html",
+		"",
+		"魔改增加物品用。"
+	],
+	tasks: [{
+		uid: "7ca9faba",
+		type: "checkmark",
+		title: "ContentTweaker"
+	}]
+}

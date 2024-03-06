@@ -1,0 +1,16 @@
+{
+	icon: "advancedrocketry:misc 1 1",
+	x: 4.5d,
+	y: 0.0d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/594.html",
+		"",
+		"Advanced Rocketry 是一个关于探索和开发其他世界和行星的模组。"
+	],
+	tasks: [{
+		uid: "2cb3d41c",
+		type: "checkmark",
+		title: "Advanced Rocketry(高级火箭)"
+	}]
+}

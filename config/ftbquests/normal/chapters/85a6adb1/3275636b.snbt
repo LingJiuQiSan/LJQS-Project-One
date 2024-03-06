@@ -1,0 +1,12 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	text: [
+		"将部分食物改为喝下去的声音。"
+	],
+	tasks: [{
+		uid: "e1bad054",
+		type: "checkmark",
+		title: "Drink It!(喝！)"
+	}]
+}

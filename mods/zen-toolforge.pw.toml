@@ -1,0 +1,13 @@
+name = "Zen Toolforge"
+filename = "zentoolforge-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "538e306575d826b220638969a67cf17dfe8a18a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2697130
+project-id = 319075

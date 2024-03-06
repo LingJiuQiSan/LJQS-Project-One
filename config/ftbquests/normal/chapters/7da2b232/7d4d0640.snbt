@@ -1,0 +1,12 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/6538.html"
+	],
+	tasks: [{
+		uid: "c16ed363",
+		type: "checkmark",
+		title: "Modern Splash(高版本加载界面)"
+	}]
+}

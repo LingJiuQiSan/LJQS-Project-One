@@ -1,0 +1,16 @@
+{
+	icon: "advanced_alchemy_furnace:advanced_alchemy_furnace",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/advanced-smelter",
+		"",
+		"该模组添加了荒古炼金炉，这是一个多块冶炼厂，其工作速度极快，效率 100%，且无污染。"
+	],
+	tasks: [{
+		uid: "d856d077",
+		type: "checkmark",
+		title: "Advanced Alchemical Furnace"
+	}]
+}

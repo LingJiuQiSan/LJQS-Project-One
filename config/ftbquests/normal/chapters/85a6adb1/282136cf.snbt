@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/2195.html",
+		"",
+		"更改掉落物。"
+	],
+	tasks: [{
+		uid: "857deaad",
+		type: "checkmark",
+		title: "Dropt"
+	}]
+}

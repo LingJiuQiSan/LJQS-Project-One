@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/recipe-search-buttons",
+		"",
+		"对着方块按小键盘1和2就可以看配方和合成。"
+	],
+	tasks: [{
+		uid: "8992435b",
+		type: "checkmark",
+		title: "Recipe Search Buttons"
+	}]
+}

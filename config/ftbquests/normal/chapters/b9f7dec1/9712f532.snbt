@@ -1,0 +1,12 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/5545.html"
+	],
+	tasks: [{
+		uid: "d181f29f",
+		type: "checkmark",
+		title: "CraftPresence"
+	}]
+}

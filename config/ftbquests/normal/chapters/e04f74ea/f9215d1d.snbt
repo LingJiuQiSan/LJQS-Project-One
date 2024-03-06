@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	text: [
+		"Aqua Acrobatics是更新的版本的 Minecraft 中添加的新动作功能的直接移植，其中最著名的是游泳机制。"
+	],
+	tasks: [{
+		uid: "38371b3a",
+		type: "checkmark",
+		title: "Aqua Acrobatics(水游技艺)"
+	}]
+}

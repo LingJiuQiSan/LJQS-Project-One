@@ -1,0 +1,16 @@
+{
+	icon: "engineersdecor:sign_hotwire",
+	x: 0.0d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/2115.html",
+		"",
+		"沉浸工程附属。"
+	],
+	tasks: [{
+		uid: "9ccb0bf4",
+		type: "checkmark",
+		title: "Engineer's Decor(工程师的装饰)"
+	}]
+}

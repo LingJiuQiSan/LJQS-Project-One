@@ -1,0 +1,16 @@
+{
+	icon: "ironchest:iron_chest 1 5",
+	x: 3.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/20.html",
+		"",
+		"好用的大箱子。"
+	],
+	tasks: [{
+		uid: "43f0ae86",
+		type: "checkmark",
+		title: "Iron Chests(更多箱子)"
+	}]
+}

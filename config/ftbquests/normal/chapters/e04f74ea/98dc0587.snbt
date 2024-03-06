@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 7.5d,
+	text: [
+		"https://www.mcmod.cn/class/5900.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "15b5e5e8",
+		type: "checkmark",
+		title: "Atlas Lib"
+	}]
+}

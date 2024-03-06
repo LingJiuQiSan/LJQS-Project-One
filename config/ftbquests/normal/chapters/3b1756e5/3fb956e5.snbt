@@ -1,0 +1,14 @@
+{
+	icon: "translocators:translocator_part",
+	x: 9.0d,
+	y: 7.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/105.html"
+	],
+	tasks: [{
+		uid: "a0d13355",
+		type: "checkmark",
+		title: "Translocators 1.8.+(转运器)"
+	}]
+}

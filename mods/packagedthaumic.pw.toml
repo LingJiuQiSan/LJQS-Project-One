@@ -1,0 +1,13 @@
+name = "PackagedThaumic"
+filename = "PackagedThaumic-1.12.2-1.0.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e4ed64143ccb89cc34ae3e291ed669b6ef96b52"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5153634
+project-id = 908613

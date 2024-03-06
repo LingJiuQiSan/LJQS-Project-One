@@ -1,0 +1,14 @@
+{
+	icon: "projectex:arcane_tablet",
+	x: 7.5d,
+	y: 4.5d,
+	shape: "heart",
+	text: [
+		"https://www.mcmod.cn/class/1481.html"
+	],
+	tasks: [{
+		uid: "65401073",
+		type: "checkmark",
+		title: "FTB ProjectEX(等价交换升级)"
+	}]
+}

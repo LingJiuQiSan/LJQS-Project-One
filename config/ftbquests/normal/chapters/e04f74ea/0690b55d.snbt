@@ -1,0 +1,16 @@
+{
+	icon: "arcanearchives:debugorb",
+	x: 3.0d,
+	y: 4.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1988.html",
+		"",
+		"为游戏早期添加各类存储。"
+	],
+	tasks: [{
+		uid: "988db291",
+		type: "checkmark",
+		title: "Arcane Archives(奥术档案馆)"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	icon: "betterfurnacesreforged:diamond_furnace",
+	x: 4.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/4546.html",
+		"",
+		"添加更多熔炉。"
+	],
+	tasks: [{
+		uid: "ba934eef",
+		type: "checkmark",
+		title: "BetterFurnaces Reforged(更好的熔炉重铸版)"
+	}]
+}

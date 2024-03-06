@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/809.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "a1ff1347",
+		type: "checkmark",
+		title: "MrTJPCore"
+	}]
+}

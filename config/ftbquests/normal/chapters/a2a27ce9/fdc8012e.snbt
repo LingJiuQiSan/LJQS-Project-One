@@ -1,0 +1,19 @@
+{
+	icon: {
+		id: "naturescompass:naturescompass",
+		tag: {}
+	},
+	x: 3.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/754.html",
+		"",
+		"帮你寻找生物群系。"
+	],
+	tasks: [{
+		uid: "c329d9b0",
+		type: "checkmark",
+		title: "Nature's Compass(自然罗盘/生物群系指南针)"
+	}]
+}

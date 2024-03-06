@@ -1,0 +1,14 @@
+{
+	icon: "rftools:dimensional_shard",
+	x: 6.0d,
+	y: 3.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/397.html"
+	],
+	tasks: [{
+		uid: "8155df4c",
+		type: "checkmark",
+		title: "RFTools (Legacy)(RF工具箱)"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	icon: {
+		id: "botania:specialflower",
+		tag: {
+			type: "orechidEndium"
+		}
+	},
+	x: 4.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/orechidendium",
+		"",
+		"末地凝矿兰。"
+	],
+	tasks: [{
+		uid: "7f53e6d5",
+		type: "checkmark",
+		title: "Orechid Endium"
+	}]
+}

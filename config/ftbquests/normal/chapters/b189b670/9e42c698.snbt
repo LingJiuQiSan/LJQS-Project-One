@@ -1,0 +1,14 @@
+{
+	icon: "immersivecables:wire_coil",
+	x: 6.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1114.html"
+	],
+	tasks: [{
+		uid: "97e7017e",
+		type: "checkmark",
+		title: "Immersive Cables(沉浸线缆)"
+	}]
+}

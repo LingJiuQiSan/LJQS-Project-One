@@ -1,0 +1,16 @@
+{
+	icon: "artisanautomation:automator",
+	x: 0.0d,
+	y: 6.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/5925.html",
+		"",
+		"工匠工作台的全自动方案。"
+	],
+	tasks: [{
+		uid: "897235db",
+		type: "checkmark",
+		title: "Artisan Automation(工匠自动化)"
+	}]
+}

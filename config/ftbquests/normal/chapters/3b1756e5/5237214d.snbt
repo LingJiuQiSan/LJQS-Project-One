@@ -1,0 +1,12 @@
+{
+	x: 4.5d,
+	y: 7.5d,
+	text: [
+		"https://www.mcmod.cn/class/778.html"
+	],
+	tasks: [{
+		uid: "aec2f216",
+		type: "checkmark",
+		title: "TOP Addons"
+	}]
+}

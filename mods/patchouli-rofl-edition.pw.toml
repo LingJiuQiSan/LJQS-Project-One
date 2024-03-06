@@ -1,0 +1,13 @@
+name = "Patchouli ROFL Edition"
+filename = "Patchouli-1.0-25.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "487a9ae5a0d5851df12136ca48d0a7490f4755f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4749398
+project-id = 905159

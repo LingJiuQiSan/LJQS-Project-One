@@ -1,0 +1,13 @@
+name = "LJQS Project One"
+author = "LingJiuQiSan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "32c3f60b59349181f7e20dc2dea887e882283f7c7151fa73e55b35dba44c5b0f"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

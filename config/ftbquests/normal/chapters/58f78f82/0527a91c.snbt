@@ -1,0 +1,13 @@
+{
+	icon: "lootgames:ms_activator",
+	x: 4.5d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/7138.html"
+	],
+	tasks: [{
+		uid: "018981eb",
+		type: "checkmark",
+		title: "Loot Games(战利品游戏)"
+	}]
+}

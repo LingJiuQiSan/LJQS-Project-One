@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	text: [
+		"https://www.mcmod.cn/class/1476.html",
+		"",
+		"一个库。"
+	],
+	tasks: [{
+		uid: "0acad38e",
+		type: "checkmark",
+		title: "OreLib"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	icon: "embers:ember_detector",
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/embers-extended-life",
+		"",
+		"Embers Rekindled的1.12.2分支。"
+	],
+	tasks: [{
+		uid: "4c2156fe",
+		type: "checkmark",
+		title: "Embers Unofficial Extended Life"
+	}]
+}

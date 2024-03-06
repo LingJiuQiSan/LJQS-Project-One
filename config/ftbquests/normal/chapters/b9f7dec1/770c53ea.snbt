@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/9872.html",
+		"",
+		"沉浸工程园艺玻璃罩更多模组支持。"
+	],
+	tasks: [{
+		uid: "a173a9bc",
+		type: "checkmark",
+		title: "Cloche Profit Peripheral"
+	}]
+}

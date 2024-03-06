@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	text: [
+		"https://www.mcmod.cn/class/2861.html",
+		"",
+		"让红石计划和其他模组联动。"
+	],
+	tasks: [{
+		uid: "05d2e93a",
+		type: "checkmark",
+		title: "Project Red - Compat(红石计划：兼容性)"
+	}]
+}

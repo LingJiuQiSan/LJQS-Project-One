@@ -1,0 +1,16 @@
+{
+	icon: "avaritiaddons:avaritiaddons_chest 1 1",
+	x: 7.5d,
+	y: 7.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1112.html",
+		"",
+		"添加了一些物品。"
+	],
+	tasks: [{
+		uid: "f81638ca",
+		type: "checkmark",
+		title: "Avaritiaddons(无尽收容 / 更多空间箱子)"
+	}]
+}

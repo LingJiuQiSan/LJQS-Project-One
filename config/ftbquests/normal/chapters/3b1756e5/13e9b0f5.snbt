@@ -1,0 +1,13 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"https://www.mcmod.cn/class/3214.html"
+	],
+	tasks: [{
+		uid: "ab7374b1",
+		type: "checkmark",
+		title: "Tinkers' Modifier Modifier(匠魂强化修改)"
+	}]
+}

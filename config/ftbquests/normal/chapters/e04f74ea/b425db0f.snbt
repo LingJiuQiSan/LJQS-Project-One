@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 6.0d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/astral-level-tweak",
+		"",
+		"允许您编辑星辉魔法额外等级经验的公式。"
+	],
+	tasks: [{
+		uid: "959ca250",
+		type: "checkmark",
+		title: "AstralLevelTweak"
+	}]
+}

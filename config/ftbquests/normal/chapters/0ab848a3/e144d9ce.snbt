@@ -1,0 +1,18 @@
+{
+	icon: {
+		id: "simple_trophies:trophy",
+		tag: {}
+	},
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"https://www.mcmod.cn/class/7357.html",
+		"",
+		"添加了一种奖杯。"
+	],
+	tasks: [{
+		uid: "6871d2c8",
+		type: "checkmark",
+		title: "Simple Trophies"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/just-enough-magiculture",
+		"",
+		"Just Enough Magiculture 是一个添加了大量 JER 集成的模组。"
+	],
+	tasks: [{
+		uid: "0c744ebe",
+		type: "checkmark",
+		title: "Just Enough Magiculture"
+	}]
+}

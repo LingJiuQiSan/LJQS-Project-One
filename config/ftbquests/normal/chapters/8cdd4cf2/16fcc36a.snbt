@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/1945.html"
+	],
+	tasks: [{
+		uid: "fe532989",
+		type: "checkmark",
+		title: "Enchantment Descriptions(附魔描述)"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 9.0d,
+	shape: "gear",
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/tweaked-petroleum",
+		"",
+		"此 mod 为 Immersive Petroleum 的储层和抽油机添加了更多配置（和 JEI 支持）选项"
+	],
+	tasks: [{
+		uid: "c94414db",
+		type: "checkmark",
+		title: "Tweaked Petroleum"
+	}]
+}

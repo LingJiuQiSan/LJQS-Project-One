@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	text: [
+		"升级了无尽催化剂所需要的材料数量。"
+	],
+	tasks: [{
+		uid: "d9d53e36",
+		type: "checkmark",
+		title: "JAOPCASingularities(JAOPCA的奇点)"
+	}]
+}

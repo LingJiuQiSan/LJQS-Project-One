@@ -1,0 +1,13 @@
+name = "Broken Wings - Game Stages Edition"
+filename = "brokenwings-3.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82505141a16cac8570cf2006469efa3a3ecfa7d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4978525
+project-id = 953353

@@ -1,0 +1,15 @@
+{
+	icon: "openscreens:holoscreen3",
+	x: 3.0d,
+	y: 1.5d,
+	text: [
+		"https://www.curseforge.com/minecraft/mc-mods/openscreens",
+		"",
+		"为开放式电脑添加了大屏幕。"
+	],
+	tasks: [{
+		uid: "bd1f332e",
+		type: "checkmark",
+		title: "OpenScreens"
+	}]
+}

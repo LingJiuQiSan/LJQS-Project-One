@@ -1,0 +1,15 @@
+{
+	icon: "avaritiatweaks:enhancement_crystal",
+	x: 0.0d,
+	y: 9.0d,
+	text: [
+		"https://www.mcmod.cn/class/1092.html",
+		"",
+		"调整一些无尽贪婪的内容。"
+	],
+	tasks: [{
+		uid: "f1e1eb95",
+		type: "checkmark",
+		title: "Avaritia Tweaks"
+	}]
+}

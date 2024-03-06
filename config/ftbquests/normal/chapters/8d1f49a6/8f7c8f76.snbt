@@ -1,0 +1,14 @@
+{
+	icon: "openglider:hang_glider_basic",
+	x: 1.5d,
+	y: 1.5d,
+	shape: "diamond",
+	text: [
+		"https://www.mcmod.cn/class/797.html"
+	],
+	tasks: [{
+		uid: "9f155249",
+		type: "checkmark",
+		title: "Open Glider(滑翔翼)"
+	}]
+}
