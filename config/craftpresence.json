@@ -174,8 +174,7 @@
     },
     "dynamicIcons": {
       "LingJiuQiSan": "https://mc-heads.net/avatar/285720db514e4a6797c0c0b3f74c80b1",
-      "default": "https://via.placeholder.com/256.png",
-      "Disorder66": "https://mc-heads.net/avatar/000000000000300A9D86FB84C47B2CDA"
+      "default": "https://via.placeholder.com/256.png"
     },
     "dynamicVariables": {
       "default": "Example Text",
