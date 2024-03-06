@@ -2,11 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "README.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "7f9c25acb71985b851f63f15c06f208fb580ee7690d0a4f5948bf6a473132572"
 
 [[files]]
 file = "config/AE2Stuff/overrides/recipes.cfg"
@@ -874,7 +870,7 @@ hash = "daf092e12da29f1f8526a3be3b4e26d82a42612c045b66bebf52c35aa579fc09"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "5928947a49b883b5d80a1aa48aaf016af83ea3805f98992f02ae2c2a49246c96"
+hash = "514003620281448be7131a08925f0c32cf6088e89476968f27c22e30e118b75a"
 
 [[files]]
 file = "config/ctm.cfg"
