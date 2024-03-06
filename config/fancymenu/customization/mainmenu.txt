@@ -14,6 +14,11 @@ customization {
 }
 
 customization {
+  identifier = %id=9764%
+  action = hidebutton
+}
+
+customization {
   orientation = top-left
   hidden = true
   x = 140
@@ -26,9 +31,9 @@ customization {
 
 customization {
   orientation = top-left
-  hidden = false
+  hidden = true
   x = 2
-  width = 123
+  width = 121
   action = deep_customization_element:title_screen_branding
   actionid = dfae90ca-9ddf-4731-9948-98f0e90a5eeb1709238543902
   y = 191
@@ -79,10 +84,5 @@ customization {
   actionid = 2d6d1ad3-c9ca-4f74-a33d-2868eea9a7951709238543905
   y = 0
   height = 30
-}
-
-customization {
-  identifier = %id=9764%
-  action = hidebutton
 }
 

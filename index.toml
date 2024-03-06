@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "README.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/AE2Stuff/overrides/recipes.cfg"
 hash = "a3b47b7340c636682c3cf5b09bbeeb9b3b867639009ba4417495027173fbcec6"
 
@@ -490,7 +498,7 @@ hash = "6b07d912612fa348a3765283d9373a1a5b3459f2ac4721f56bdd0a0c0e8a4c94"
 
 [[files]]
 file = "config/astralsorcery/amulet_enchantments.cfg"
-hash = "5915cf03c4891dc50928e2ccc5a5760707c4d36ea0c35b26d1515f9b082cfcc2"
+hash = "2dfb5ddc3ae358813fba0477c17dfa87b5af63f28e86d8903405da53e1bbdc2e"
 
 [[files]]
 file = "config/astralsorcery/fluid_rarities.cfg"
@@ -726,7 +734,7 @@ hash = "d26ecdae81dae81dc58f3b9a3838b5382023e0904c74ea72cc2fcf320086cc96"
 
 [[files]]
 file = "config/classicbar.cfg"
-hash = "479ec1d99bae91f758914514681359264659adf7aaa97166664742713564744a"
+hash = "25d7551313f2d0311e17749eb298062e6a66e7b309783617d83b8023e4fc9a42"
 
 [[files]]
 file = "config/clochecall.cfg"
@@ -866,7 +874,7 @@ hash = "daf092e12da29f1f8526a3be3b4e26d82a42612c045b66bebf52c35aa579fc09"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "514003620281448be7131a08925f0c32cf6088e89476968f27c22e30e118b75a"
+hash = "5928947a49b883b5d80a1aa48aaf016af83ea3805f98992f02ae2c2a49246c96"
 
 [[files]]
 file = "config/ctm.cfg"
@@ -1406,7 +1414,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/mainmenu.txt"
-hash = "bbc25af302adabe59953ffb90e96aa36fdbf1c5c0712fa87ec6de3490d4fdad0"
+hash = "360e8a991d3e384688bc1bd66a64e79be6f58c7777e8a5c0e635e7bb98ce1a5d"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -4782,7 +4790,7 @@ hash = "37063325efc43a8396530587822ee5aa1a0f7cba31bbf77f66d6c7042e8cc8ea"
 
 [[files]]
 file = "config/jei/worldSettings.cfg"
-hash = "edd71edcbdf42b9ae33ae15a896cfe1f66c72d302664bd37436485c7d62a8e4d"
+hash = "8457f9ecc8a0d5d7d63cd8e5c8296afcc8b33a0b286bf2ea925e267b424d6d1e"
 
 [[files]]
 file = "config/jeibees.cfg"
@@ -5362,7 +5370,7 @@ hash = "0c98e817ae7d068329c3a9266b18548239198ebb3728bf6f3fef250bb60da56a"
 
 [[files]]
 file = "config/splash.properties"
-hash = "4f84b788de60b62dd8391fb380d70acdabbdae7b4ce99442a5886da4df87449b"
+hash = "feda67b96e76a8e9c2170d39ced63c293b460b272d2e869aaff6bb2b572c46c4"
 
 [[files]]
 file = "config/storagedrawers.cfg"
@@ -5502,7 +5510,7 @@ hash = "f191208cedaf0c19ccdbfb4ec58af40a317383f7ba1e4385dc43dc591aeb4faa"
 
 [[files]]
 file = "config/thaumicjei_itemstack_aspects.json"
-hash = "da8e9a2658319ad8d07d35680edf622151d30aa2b5d566571c5acf9405f9d0ee"
+hash = "40b38ac4f2034e9fb3c19351b8002b493b17a8e0d9aaa93b06cdca6c687b238a"
 
 [[files]]
 file = "config/thaumiconeprobe.cfg"
@@ -5534,7 +5542,7 @@ hash = "953bf399d17e6936f990f97a5049bceefcc0124f182eaaad000468315db8f3b8"
 
 [[files]]
 file = "config/time.history"
-hash = "15873d015ad90b7dd953d9947bf824eca11cc9c4804071ec81ebdb25c55c88af"
+hash = "e24cc5f7dd4b63a6c8a837e9d33f51f8fe6c0bf638cce22bd0f7676cda316898"
 
 [[files]]
 file = "config/tinker_ore_dict_melting_cache.dat"
@@ -5662,7 +5670,7 @@ hash = "6a82f8ec04531f13795bc29c900a1f512c58b82874354c44021ac4852d8a76b5"
 
 [[files]]
 file = "config/versioner.cfg"
-hash = "859ebc03fd23df2a2fb6ec204136d61f044db29f45beb47d19555912fd3e4080"
+hash = "4d7de88d26218f171c5c5d34d6b2f197c15b38cfbe0248783a635c8a2611ad58"
 
 [[files]]
 file = "config/vintagefix.properties"
@@ -5710,7 +5718,7 @@ hash = "366b2cfd7086c9a4647d958a608b4c2a98cae135e61c6b9c488fbfed164e4847"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "66b3ff37eadc39d777a80929e0d2aef4ab898e6e80701774cf68ff60c9f37d57"
+hash = "d9ea09cdc4901ffe2614296826f284e5b36881b0c78e3137ad1359d008d2f607"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -8663,6 +8671,10 @@ hash = "943f93f4831d1e69e332860598687fdd0cc57d4ebebe01c99eb0e91a0f063aae"
 [[files]]
 file = "scripts/grassUtils/scriptLoaderMessageHandler/Preinit.zs"
 hash = "264eb447fcdcafd6c579026f05e01370c6c3c64d10e2d76ba87922d6b1d8f723"
+
+[[files]]
+file = "scripts/logintoast.zs"
+hash = "31f70dc2eaf761f2425cd973cf93f6c40b72c9664b28fdb03190ec7931f3b4ec"
 
 [[files]]
 file = "scripts/mechanics_recipes.zs"
